@@ -136,9 +136,3 @@ All metrics are compared against three baselines: buy-and-hold, random direction
 - System observes NYSE trading hours and the Federal Reserve bank holiday calendar
 
 ---
-
-## Project Context
-
-This is a Final Year / Research Project submitted to a course supervisor. It is scoped as an entry-level Data Science portfolio project demonstrating production ML skills including RAG architecture, vector databases, online learning, and LLM integration.
-
-**Document Version:** 1.0 | **Date:** 18 May 2026
