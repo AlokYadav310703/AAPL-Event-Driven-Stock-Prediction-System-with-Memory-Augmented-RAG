@@ -72,16 +72,13 @@ The pipeline runs in six sequential phases triggered automatically each trading 
 | Source | Role |
 |---|---|
 | NewsAPI / GNews | Daily Apple news headlines |
-| SEC EDGAR | 8-K, 10-Q, 10-K filings |
 | yfinance | AAPL daily OHLCV for outcome labelling |
-| Reddit (PRAW) | r/apple and r/stocks sentiment signal |
-| Benzinga / HuggingFace | Analyst upgrades and downgrades |
 
 ---
 
 ## Event Extraction Schema
 
-Every article is parsed by Claude Haiku into a validated JSON object:
+Every article is parsed by Grok into a validated JSON object:
 
 | Field | Description |
 |---|---|
@@ -129,21 +126,6 @@ For each new article, the engine:
 | Rolling 30-day Accuracy | Primary indicator that online learning is working |
 
 All metrics are compared against three baselines: buy-and-hold, random direction classifier, and plain sentiment classifier. A system warning is triggered if rolling 30-day accuracy drops below 50%.
-
----
-
-## Delivery Timeline
-
-| Phase | Weeks | Deliverable |
-|---|---|---|
-| 1 | 1–3 | Data collection: FNSPID, yfinance, NewsAPI, SEC EDGAR |
-| 2 | 4–6 | LLM extraction pipeline + batch processing of 180k FNSPID records |
-| 3 | 7–9 | Vector memory: FinBERT embeddings, ChromaDB, impact scoring |
-| 4 | 10–12 | Prediction engine: retrieval re-ranking, XGBoost, reasoning generation |
-| 5 | 13–14 | Online learning loop: outcome fetching, memory update, retraining |
-| 6 | 15–16 | Streamlit dashboard, APScheduler deployment, end-to-end testing |
-
----
 
 ## Constraints
 
