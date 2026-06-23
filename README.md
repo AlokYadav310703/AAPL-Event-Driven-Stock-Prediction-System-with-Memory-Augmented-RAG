@@ -1,4 +1,5 @@
 # AAPL Event-Driven Stock Prediction System
+(Currently working)
 
 A memory-augmented, event-driven stock prediction pipeline for Apple Inc. (AAPL) built on a Retrieval-Augmented Generation (RAG) architecture with online learning.
 
