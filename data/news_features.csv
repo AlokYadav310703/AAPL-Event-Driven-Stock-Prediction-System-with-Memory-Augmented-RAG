@@ -1,0 +1,1474 @@
+date,event_count,severity,sentiment_score,impact_score,event_weight,event_type,affected_product,direction,title
+1/1/2021,0,0,0,0,0,0,0,0,0
+1/2/2021,0,0,0,0,0,0,0,0,0
+1/3/2021,0,0,0,0,0,0,0,0,0
+1/4/2021,2,6,0.160449735,0.273563802,0.0404,supply_chain,General,HIGH,Foxconn Seals Manufacturing Deal With Chinese EV Startup Byton
+1/5/2021,6,6,0.030041152,0.24020417,0.0425,regulatory,General,LOW,China’s Dreams of Self-Reliance Still Depend on Japan Inc.
+1/6/2021,2,2,0.086666667,0.286228955,0.0429,general,General,HIGH,Neil Young strikes heart of gold with 50% sale of song catalog to publishing house
+1/7/2021,3,6,0.733333333,0.24020417,0.0414,general,General,HIGH,Dow Jones Futures Rise: Congress Certifies Biden Win After Pro-Trump Mob Stormed Capitol Hill; These 5 Stocks Are Buys
+1/8/2021,8,3,0.137634105,0.301014245,0.04,general,General,LOW,3 Diversified SPAC Stocks to Buy That Don’t Involve Electric Vehicles
+1/9/2021,0,0,0,0,0,0,0,0,0
+1/10/2021,0,0,0,0,0,0,0,0,0
+1/11/2021,0,0,0,0,0,0,0,0,0
+1/12/2021,5,6,0.149462121,0.252274841,0.0387,general,General,HIGH,The World’s Top Maker of Mini Motors Bets It Can Win Over Tesla
+1/13/2021,5,6,0.094196429,0.282578766,0.0398,general,General,LOW,Media should ‘stop giving Trump a platform’: Billionaire media mogul
+1/14/2021,3,2,0.163822751,0.258427024,0.0391,general,General,LOW,Influencers with Andy Serwer: Haim Saban
+1/15/2021,15,2,0.213742236,0.285918891,0.04,general,General,HIGH,Biden is ‘the right man to address inequality’: Democratic megadonor
+1/16/2021,0,0,0,0,0,0,0,0,0
+1/17/2021,0,0,0,0,0,0,0,0,0
+1/18/2021,0,0,0,0,0,0,0,0,0
+1/19/2021,5,8,0.143849871,0.26976487,0.0398,general,General,HIGH,DataTrek co-Founder on his outlook for the S&amp;P 500
+1/20/2021,2,6,0.061616162,0.244646236,0.0378,supply_chain,General,HIGH,MediaTek taps TSMC 6-nanometer tech for new flagship 5G phone chips
+1/21/2021,5,6,0.164362519,0.254042745,0.0396,product_launch,Vision_Pro,HIGH,Apple’s First Headset to Be Niche Precursor to Eventual AR Glasses
+1/22/2021,8,8,0.042979798,0.263831079,0.0428,earnings_miss,General,HIGH,"IBM's Q4 Earnings Beat Estimates, Stock Down on Revenue Miss"
+1/23/2021,0,0,0,0,0,0,0,0,0
+1/24/2021,0,0,0,0,0,0,0,0,0
+1/25/2021,8,2,0.011111111,0.261261523,0.04,general,General,NEUTRAL,Roblox’s IPO Is Coming. How to Play the Videogame Boom.
+1/26/2021,7,6,0.120818182,0.243374586,0.0395,general,General,LOW,Steve Case on the innovation economy in 2021
+1/27/2021,4,2,0.232010101,0.237753332,0.0394,general,General,LOW,Kenyan tech entrepreneur explains why he turned down a scholarship to Harvard
+1/28/2021,8,8,0.058989899,0.233935967,0.0423,earnings_miss,General,LOW,Samsung Net Profit Misses Estimates After 5G iPhone’s Debut
+1/29/2021,5,8,-0.076388889,0.233241051,0.0394,general,General,HIGH,"Dow Jones Down 575 Points; GameStop, AMC Soar; This Financial Stock Breaks Out"
+1/30/2021,0,0,0,0,0,0,0,0,0
+1/31/2021,0,0,0,0,0,0,0,0,0
+2/1/2021,2,0,0.023320158,0.227166682,0.0394,general,General,HIGH,New Strong Buy Stocks for February 1st
+2/2/2021,4,2,0,0.253902495,0.0404,general,General,LOW,"Apple Could Partner With Hyundai for Apple Car, Says Analyst"
+2/3/2021,2,2,0.3,0.244943857,0.0402,general,General,HIGH,Ignore GameStop: Here Are 3 Better Stocks
+2/4/2021,5,8,0.119246881,0.271018237,0.041,general,General,NEUTRAL,"Sony Surges to 20-Year High as IPhone, Games Spur Outlook Hike"
+2/5/2021,8,6,0.012643678,0.293345422,0.0419,general,General,NEUTRAL,"Apple Talks With Hyundai, Kia on Electric Car Paused Recently"
+2/6/2021,0,0,0,0,0,0,0,0,0
+2/7/2021,0,0,0,0,0,0,0,0,0
+2/8/2021,17,5,0.079334416,0.301326722,0.0423,general,General,LOW,"Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia"
+2/9/2021,6,8,0.057925408,0.27099514,0.0415,general,General,NEUTRAL,Contactless Payments Gaining Traction: 5 Stocks to Watch
+2/10/2021,9,4,0.047177419,0.400574148,0.0458,general,General,NEUTRAL,Who Will Build the Apple Car? Here Are Candidates to Watch
+2/11/2021,9,8,0.042916667,0.289051533,0.0421,general,General,NEUTRAL,15 Fastest-Growing Software Companies
+2/12/2021,1,8,0.057670455,0.246345714,0.0405,regulatory,General,LOW,"Google, Microsoft, Qualcomm Protest Nvidia’s Acquisition of Arm Ltd."
+2/13/2021,0,0,0,0,0,0,0,0,0
+2/14/2021,0,0,0,0,0,0,0,0,0
+2/15/2021,0,0,0,0,0,0,0,0,0
+2/16/2021,2,2,0.036590909,0.25988704,0.0417,general,General,LOW,Dow Jones Hits New High As Stock Market Gains Fade; Bitcoin Soars Again
+2/17/2021,10,8,0.168725349,0.316773117,0.0436,general,General,LOW,Top 15 Serial Entrepreneurs In The World
+2/18/2021,11,2,0.026157407,0.314689279,0.0436,general,General,NEUTRAL,"You can now sort company ratings by race, gender identity on Glassdoor"
+2/19/2021,13,0,-0.033333333,0.31226024,0.0436,general,General,LOW,Dow Jones Closes At Break-Even After Paring Earlier Gains; These Travel Stocks Break Out
+2/20/2021,0,0,0,0,0,0,0,0,0
+2/21/2021,0,0,0,0,0,0,0,0,0
+2/22/2021,10,4,0,0.331794977,0.0445,general,General,NEUTRAL,"Dow Jones Futures Signal Stock Market Rally Retreat; Tesla Model Y SR+ Pulled, Boeing 777 Jets In Focus"
+2/23/2021,8,0,0.048611111,0.391433328,0.0466,general,General,NEUTRAL,"Dow Jones Futures Rise, Tech Futures Dive As Bitcoin Tumbles; ZoomInfo Leads Earnings Movers"
+2/24/2021,5,2,0.023981481,0.332804501,0.0447,general,General,LOW,Lessons to take from previous market bubbles
+2/25/2021,10,6,0.139745196,0.360556275,0.0453,regulatory,General,NEUTRAL,"Governments need more money to fight Google antitrust cases, lawyer tells Congress"
+2/26/2021,18,6,0.14291588,0.535648108,0.0518,general,General,HIGH,C3.ai Has Great Pedigree and Is Set for Better Days
+2/27/2021,0,0,0,0,0,0,0,0,0
+2/28/2021,0,0,0,0,0,0,0,0,0
+3/1/2021,8,6,0.115568382,0.379431099,0.0468,general,General,LOW,5 Top-Rated S&amp;P 500 Growth Stocks to Buy in March
+3/2/2021,14,2,-0.013575758,0.374014378,0.0467,general,General,LOW,Steve Wozniak’s K-12 Education Program Woz ED  Announces Exclusive Strategic Partnership with Draganfly
+3/3/2021,5,5,-0.079166667,0.260631591,0.0429,general,General,LOW,"Dow Reverses, Tech Stocks Sell Off As Jobs Data Disappoints; Bitcoin Surges Above $52,000"
+3/4/2021,13,6,0.168574134,0.270531863,0.0465,earnings_miss,General,HIGH,Broadcom Falls After Chip Sales Miss IPhone-Fueled Expectations
+3/5/2021,18,6,0.129166667,0.493047178,0.051,general,General,LOW,"Dow Slashes Gains, Tech Stocks Slide As Yields Jump After Strong Jobs Report; Tesla Dives Again"
+3/6/2021,0,0,0,0,0,0,0,0,0
+3/7/2021,0,0,0,0,0,0,0,0,0
+3/8/2021,12,0,0.016666667,0.334236592,0.0457,general,General,HIGH,Dow Jones Rises Over 300 Points While Tech Stocks Sell Off; Treasury Yields Near Recent Highs
+3/9/2021,16,6,0.117825987,0.464057505,0.0505,product_launch,General,LOW,EV Updates 3/9/2021 – A Future In The Making
+3/10/2021,21,5,0.311363636,0.300635397,0.0448,general,General,HIGH,"Is Now The Time To Buy Stock In Sundial Growers, Tilray, Apple Or Carnival?"
+3/11/2021,15,8,0.130617132,0.429405391,0.0494,general,General,LOW,Warren Buffett's Net Worth Eclipses $100 Billion
+3/12/2021,11,8,0.411111111,0.317852736,0.0456,general,General,HIGH,"5 Top ""Winners Keep Winning"" Stocks"
+3/13/2021,0,0,0,0,0,0,0,0,0
+3/14/2021,0,0,0,0,0,0,0,0,0
+3/15/2021,15,8,0.073726852,0.360556275,0.0468,regulatory,General,HIGH,Xiaomi Jumps After U.S. Trading Ban on Phone Maker Is Halted
+3/16/2021,32,2,0.3,0.371730238,0.0478,general,General,LOW,Dow Jones Falls As Nasdaq Rallies; Apple Stock Up As Tech Rebounds; Moderna Pops On This
+3/17/2021,27,6,0.056838095,0.472346872,0.0513,general,General,LOW,Coming to a TV Near You: Ad Fraud That Costs Marketers Millions
+3/18/2021,22,8,0.019786096,0.287874401,0.044,regulatory,General,NEUTRAL,Google's Chrome Browser Cookie Blocking Triggers Antitrust Probe: Reuters
+3/19/2021,26,8,0.4625,0.248222068,0.0456,earnings_miss,General,HIGH,"Best Dow Jones Stocks To Buy And Watch In March 2021: Apple Falls, Nike Dives 5% On Earnings"
+3/20/2021,0,0,0,0,0,0,0,0,0
+3/21/2021,0,0,0,0,0,0,0,0,0
+3/22/2021,34,7,-0.039402681,0.245541736,0.0429,regulatory,General,LOW,"Oracle to Sell $15 Billion of Debt, Drawing Two Rating Cuts"
+3/23/2021,18,2,0.141184573,0.256222814,0.0428,general,General,LOW,Intel CEO: 'We will pursue opportunities with Apple'
+3/24/2021,21,8,0.3,0.274601519,0.0435,general,General,NEUTRAL,Dow Jones Rallies As These Plays Flourish; GameStop Sinks As Tech Stocks Flounder
+3/25/2021,19,2,0.115123457,0.282656252,0.0444,legal,General,HIGH,Invacare Corporation Appoints Stephanie L. Fehr to Board of Directors
+3/26/2021,30,8,0.0765625,0.272820085,0.044,regulatory,General,NEUTRAL,H&amp;M Stores Vanish From China Maps as Xinjiang Spat Worsens
+3/27/2021,0,0,0,0,0,0,0,0,0
+3/28/2021,0,0,0,0,0,0,0,0,0
+3/29/2021,22,6,0.096804408,0.264197946,0.0441,legal,General,LOW,Apple loses legal challenge to Swatch using Steve Jobs' 'One more thing' phrase
+3/30/2021,40,8,0.070259042,0.3102898,0.0467,supply_chain,General,HIGH,"U.S.-China Tensions Worsened Chip Crunch, TSMC Chairman Says"
+3/31/2021,50,8,0.0805,0.465001047,0.0523,supply_chain,General,HIGH,Foxconn’s Profit Misses Estimates as Pivot to Cars Accelerates
+4/1/2021,28,8,-0.028017902,0.301482171,0.0465,supply_chain,General,HIGH,Huawei Warns of Supply Chain Disruption After Growth Evaporates
+4/2/2021,0,0,0,0,0,0,0,0,0
+4/3/2021,0,0,0,0,0,0,0,0,0
+4/4/2021,0,0,0,0,0,0,0,0,0
+4/5/2021,27,8,-0.25,0.367848039,0.0477,general,General,NEUTRAL,LG Electronics Opts to Kill Off Its Smartphone Business
+4/6/2021,21,2,0,0.330846816,0.0466,general,General,HIGH,Innoviz is ‘ahead of the pack’ in the lidar space: CEO
+4/7/2021,24,8,-0.18125,0.300282419,0.0461,legal,General,HIGH,Max Schrems accuses Google of illegally tracking Android users
+4/8/2021,42,6,0.126136364,0.380966008,0.0485,general,General,HIGH,The Chip Industry Has a Problem With Its Giant Carbon Footprint
+4/9/2021,29,8,0.218153409,0.376984686,0.0469,general,General,LOW,Dow Jones Rises To New High As Apple Extends Win Streak; Growth Stocks Break Out
+4/10/2021,0,0,0,0,0,0,0,0,0
+4/11/2021,0,0,0,0,0,0,0,0,0
+4/12/2021,29,8,0,0.264441431,0.0455,analyst_downgrade,General,HIGH,Qualcomm Stock Dips After Downgrade
+4/13/2021,25,8,0.208861727,0.267239213,0.0456,analyst_upgrade,General,LOW,Amazon stock may be 70% undervalued and the company worth $3 trillion: analyst
+4/14/2021,24,8,-0.2,0.239777312,0.0447,analyst_upgrade,General,HIGH,"Apple Should Crush Street Estimates for the March Quarter, Analyst Says"
+4/15/2021,20,8,0.154765657,0.229609638,0.0445,analyst_upgrade,General,NEUTRAL,"Netflix, Inc. -- Moody's upgrades Netflix's CFR to Ba1 from Ba3; the outlook is positive"
+4/16/2021,21,8,0.228787879,0.243511334,0.0451,analyst_downgrade,General,HIGH,Here’s Why Stewart Asset Managment Sold its Apple (AAPL) Shares
+4/17/2021,0,0,0,0,0,0,0,0,0
+4/18/2021,0,0,0,0,0,0,0,0,0
+4/19/2021,27,2,0.037407407,0.333364248,0.0463,general,General,LOW,A Bullish Technical Take On Apple Stock
+4/20/2021,61,8,0.131588613,0.340482652,0.0467,product_launch,General,NEUTRAL,An Apple Event for These Pandemic Times
+4/21/2021,56,6,0.05,0.47398746,0.052,regulatory,General,LOW,No cameras allowed during Epic Games antitrust trial against Apple
+4/22/2021,30,7,-0.3,0.38095662,0.0482,general,General,HIGH,"Dow Jones Futures: Biden Capital Gains Tax Hike Plan Hits Market Rally; Bitcoin, Intel, Snap, Apple Supplier Move Late"
+4/23/2021,44,0,0.136363636,0.424977958,0.0498,general,General,NEUTRAL,Tech Support: iOS 14.5 updates explained
+4/24/2021,0,0,0,0,0,0,0,0,0
+4/25/2021,0,0,0,0,0,0,0,0,0
+4/26/2021,51,6,0.048881674,0.360716969,0.0484,regulatory,General,NEUTRAL,German business groups file complaint over Apple privacy settings
+4/27/2021,50,2,0.5,0.424308658,0.0502,general,General,LOW,Preview of 2021 Berkshire Hathaway Annual Shareholders Meeting
+4/28/2021,85,6,0,0.264070213,0.047,regulatory,General,NEUTRAL,Antitrust Regulators Are Hounding Apple and Google: 2 Stocks That Could Benefit
+4/29/2021,100,8,-0.05,0.36864239,0.0509,regulatory,App_Store,LOW,How ‘Fortnite’ maker Epic Games will try to prove Apple is operating App Store as an illegal monopoly
+4/30/2021,61,8,0.06,0.463496447,0.0584,legal,App_Store,HIGH,Apple Trial Threatens to Reveal App Store's Commission Bounty
+5/1/2021,0,0,0,0,0,0,0,0,0
+5/2/2021,0,0,0,0,0,0,0,0,0
+5/3/2021,50,6,-0.006481481,0.261546433,0.0549,ceo_statement,App_Store,LOW,Apple’s Schiller Floated Cutting App Store Fees a Decade Ago
+5/4/2021,33,8,0.007804233,0.24802509,0.0502,legal,App_Store,NEUTRAL,Judge presses Epic CEO during second day of Apple antitrust trial
+5/5/2021,28,8,0.082213262,0.404366851,0.0517,general,General,HIGH,5 Technology Giants to Buy on the Dip After Earnings Beat
+5/6/2021,28,6,0.1875,0.3498649,0.0509,regulatory,App_Store,HIGH,Apple-Epic trial: Epic’s claim of stifled competition on cloud gaming offers compelling bookend to price-gouging charges
+5/7/2021,27,6,0.18218254,0.421345443,0.0525,general,General,LOW,10 Best Tech Stocks to Buy Right Now Under $10
+5/8/2021,0,0,0,0,0,0,0,0,0
+5/9/2021,0,0,0,0,0,0,0,0,0
+5/10/2021,18,8,-0.155555556,0.323794097,0.0491,supply_chain,General,LOW,"Why Qualcomm, Micron Technology, and Skyworks Solutions Fell Today"
+5/11/2021,31,6,0.049138709,0.364644855,0.0505,regulatory,General,LOW,Tech giants join call for funding U.S. chip production
+5/12/2021,29,8,-0.047619048,0.284905136,0.0476,regulatory,App_Store,HIGH,Apple Claims Its App Store Blocked Over $1.5 Billion in Fraudulent Transactions in 2020
+5/13/2021,15,6,0.034833333,0.252202541,0.0467,supply_chain,General,HIGH,Parts of Taiwan Go Dark After Plant Failure Triggers Outage
+5/14/2021,28,8,0.113375464,0.241961524,0.0464,supply_chain,General,LOW,IBM boss: Global computer chip shortage could last two years
+5/15/2021,0,0,0,0,0,0,0,0,0
+5/16/2021,0,0,0,0,0,0,0,0,0
+5/17/2021,44,3,-0.002886003,0.279479265,0.048,regulatory,App_Store,LOW,"UPDATE 1-Parler returns to Apple's App Store, names new CEO"
+5/18/2021,33,0,0.454019608,0.321219385,0.0493,general,General,NEUTRAL,10 Best Dividend Stocks to Buy According to Billionaire Kerr Neilson
+5/19/2021,32,4,0.149305556,0.265777797,0.0492,ceo_statement,App_Store,HIGH,Apple v. Epic: Top Apple engineer makes case for App Store security
+5/20/2021,27,5,0.368181818,0.329916298,0.0498,general,General,LOW,Dow Jones Rallies On Jobs Data; Bitcoin Falls As Biden Targets Crypto; Apple Stock Pops
+5/21/2021,43,8,0.067028986,0.450036049,0.0566,ceo_statement,App_Store,HIGH,Apple CEO Tim Cook expected to testify today in closely watched Epic trial
+5/22/2021,0,0,0,0,0,0,0,0,0
+5/23/2021,0,0,0,0,0,0,0,0,0
+5/24/2021,31,3,0.148888889,0.358184218,0.0515,legal,General,NEUTRAL,Apple and Epic Games' legal battle winds down
+5/25/2021,27,6,0.085972222,0.392346412,0.0526,general,General,NEUTRAL,Why Amazon-MGM deal is a sign of streaming competition: 'Some will go out of business'
+5/26/2021,27,8,0.221103896,0.279863179,0.0504,ceo_statement,General,LOW,Bezos Says Retail Is Much More Competitive Than Phone Market
+5/27/2021,17,8,0.331111111,0.369654924,0.0519,general,General,LOW,10 Best Small-Cap Stocks to Buy According to Billionaire Mario Gabelli
+5/28/2021,36,0,0.3,0.329916298,0.0505,general,General,NEUTRAL,Tech Stocks Roundup: Amazon is Slowly Taking Over the World
+5/29/2021,0,0,0,0,0,0,0,0,0
+5/30/2021,0,0,0,0,0,0,0,0,0
+5/31/2021,0,0,0,0,0,0,0,0,0
+6/1/2021,18,6,-0.004166667,0.32724914,0.0508,general,General,HIGH,"Coinbase to allow users to use card via Apple, Google wallets"
+6/2/2021,25,6,-0.006858054,0.362749547,0.0526,regulatory,General,LOW,Hacking Outfit Linked to Russia Is Behind JBS Cyberattack
+6/3/2021,0,0,0,0,0,0,0,0,0
+6/4/2021,0,0,0,0,0,0,0,0,0
+6/5/2021,0,0,0,0,0,0,0,0,0
+6/6/2021,0,0,0,0,0,0,0,0,0
+6/7/2021,0,0,0,0,0,0,0,0,0
+6/8/2021,0,0,0,0,0,0,0,0,0
+6/9/2021,0,0,0,0,0,0,0,0,0
+6/10/2021,0,0,0,0,0,0,0,0,0
+6/11/2021,0,0,0,0,0,0,0,0,0
+6/12/2021,0,0,0,0,0,0,0,0,0
+6/13/2021,0,0,0,0,0,0,0,0,0
+6/14/2021,0,0,0,0,0,0,0,0,0
+6/15/2021,0,0,0,0,0,0,0,0,0
+6/16/2021,0,0,0,0,0,0,0,0,0
+6/17/2021,0,0,0,0,0,0,0,0,0
+6/18/2021,0,0,0,0,0,0,0,0,0
+6/19/2021,0,0,0,0,0,0,0,0,0
+6/20/2021,0,0,0,0,0,0,0,0,0
+6/21/2021,0,0,0,0,0,0,0,0,0
+6/22/2021,26,0,0.242420635,0.375547081,0.0543,general,General,NEUTRAL,5 great deals on Apple products — from Airpods to iPads to MacBook Pros — that you can still get right now
+6/23/2021,33,8,0.068181818,0.270450056,0.0502,general,General,NEUTRAL,Microsoft Tops $2 Trillion Market Cap: Where to From Here?
+6/24/2021,44,8,0.135714286,0.264270961,0.05,general,General,NEUTRAL,3 Great Robinhood Stocks to Buy This Summer
+6/25/2021,17,2,0.198593655,0.250847369,0.0496,general,General,HIGH,Google takes on Apple with first retail store opening in NYC
+6/26/2021,0,0,0,0,0,0,0,0,0
+6/27/2021,0,0,0,0,0,0,0,0,0
+6/28/2021,25,2,0.13032372,0.267996937,0.0506,general,General,HIGH,16 Best Beginner Stocks to Invest in Right Now
+6/29/2021,36,8,0.080208333,0.320778906,0.0528,general,General,NEUTRAL,5 Stocks to Watch on Booming Augmented Reality Adoption
+6/30/2021,35,7,0.062202381,0.323303878,0.0524,regulatory,General,NEUTRAL,Amazon Wants FTC Chair Khan Recused Over Past Criticism
+7/1/2021,31,2,-0.133333333,0.329437822,0.0534,general,General,HIGH,"Dow Jones Futures Rise: Nio, Xpeng Sales Jump As Tesla Deliveries Loom; Apple Tests Buy Point In Market Rally, Micron Earnings Jump"
+7/2/2021,20,6,0.055332492,0.476856411,0.0594,general,General,HIGH,Scenes From Silicon Valley’s Cautious Return to the Office
+7/3/2021,0,0,0,0,0,0,0,0,0
+7/4/2021,0,0,0,0,0,0,0,0,0
+7/5/2021,0,0,0,0,0,0,0,0,0
+7/6/2021,24,2,0.024407115,0.320753008,0.0535,general,General,HIGH,"Fake Tesla, Apple Stocks Have Started Trading on Blockchains"
+7/7/2021,32,2,0.25,0.371120214,0.0557,general,General,LOW,Will Apple’s winning streak last?
+7/8/2021,20,8,0.165,0.40535152,0.058,earnings_beat,General,HIGH,Is Apple Stock a Buy Ahead of Its Earnings Report?
+7/9/2021,25,5,0.134145022,0.278712332,0.0521,general,General,NEUTRAL,"If You Invested $1000 in Apple 10 Years Ago, This Is How Much You'd Have Now"
+7/10/2021,0,0,0,0,0,0,0,0,0
+7/11/2021,0,0,0,0,0,0,0,0,0
+7/12/2021,21,6,0.053074713,0.392264724,0.0571,general,General,HIGH,Has Apple stock peaked?
+7/13/2021,28,5,0.04,0.286431402,0.0528,general,General,HIGH,"Apple, Microsoft and Google stocks close at record highs"
+7/14/2021,58,4,0,0.387065023,0.0574,general,General,NEUTRAL,Taiwan Semiconductor Manufacturing Reports Earnings Thursday. Here’s What to Expect.
+7/15/2021,30,6,0.187044206,0.302148908,0.054,general,Services,LOW,Thursday's Market Minute: The Streaming Awards
+7/16/2021,29,2,0.021428571,0.274669141,0.0529,general,General,LOW,"Got $1,000? 3 5G Stocks to Look at Right Now"
+7/17/2021,0,0,0,0,0,0,0,0,0
+7/18/2021,0,0,0,0,0,0,0,0,0
+7/19/2021,14,6,0.13,0.235324815,0.0582,legal,General,HIGH,Apple under pressure over iPhone security after NSO spyware claims
+7/20/2021,35,8,0.201325758,0.247628272,0.0526,analyst_upgrade,General,LOW,Why Apple Stock Floated Higher Today
+7/21/2021,22,2,0,0.287395477,0.054,general,General,HIGH,"Silicon Valley is going back to the office — some with masks on, vaccinated or not. Others are holding off a return altogether"
+7/22/2021,29,8,0.005787879,0.338270545,0.0556,earnings_beat,Services,HIGH,"UPDATE 3-Twitter beats revenue targets with ad improvements, shares jump 7%"
+7/23/2021,25,0,0.153571429,0.299365103,0.0547,general,General,NEUTRAL,"Got $1,000? Buy These Cheap Growth Stocks Right Away"
+7/24/2021,0,0,0,0,0,0,0,0,0
+7/25/2021,0,0,0,0,0,0,0,0,0
+7/26/2021,38,2,0.283333333,0.327247322,0.0562,general,General,LOW,This could be the peak of the tech boom — Here’s what to look for
+7/27/2021,56,8,-0.029166667,0.472981274,0.0625,general,General,LOW,"Dow Jones Drops Ahead Of Apple, Microsoft Results; Growth Stocks Move On Earnings"
+7/28/2021,85,0,0.146428571,0.392760724,0.0592,general,General,NEUTRAL,How to Manage Big Tech Earnings and Dodgy Index Action
+7/29/2021,30,8,0.127013889,0.375227004,0.0576,regulatory,General,NEUTRAL,Facebook Falls As It Warns Revenue Growth May Slow Significantly
+7/30/2021,29,6,0,0.371306658,0.0585,general,General,NEUTRAL,"Tech Earnings Sparkled, but There’s Reason to Worry About What Comes Next"
+7/31/2021,0,0,0,0,0,0,0,0,0
+8/1/2021,0,0,0,0,0,0,0,0,0
+8/2/2021,19,9,0.177226631,0.367197424,0.058,earnings_beat,General,HIGH,Apple's Strongest June Quarter Ever Was Overshadowed By Chip Shortage
+8/3/2021,22,2,0.227910116,0.366132289,0.0581,general,General,NEUTRAL,10 Best Penny Stocks Popular on Reddit
+8/4/2021,14,8,0,0.240466982,0.0543,analyst_upgrade,General,NEUTRAL,"Apple Earns IBD Relative Strength Rating Upgrade, Hitting 70+"
+8/5/2021,26,0,0.311111111,0.280389696,0.0562,analyst_upgrade,General,NEUTRAL,What Is Driving AMD and Nvidia's Strong Stock Price Momentum?
+8/6/2021,34,8,-0.01,0.245119423,0.0551,legal,General,NEUTRAL,Apple wins court ruling throwing out $308.5 million patent verdict
+8/7/2021,0,0,0,0,0,0,0,0,0
+8/8/2021,0,0,0,0,0,0,0,0,0
+8/9/2021,11,6,0.161410534,0.250410497,0.0545,regulatory,General,NEUTRAL,Amazon Lures Advertisers From Facebook After Apple Privacy Shift
+8/10/2021,21,6,0.039650538,0.239416301,0.0542,regulatory,General,NEUTRAL,"SoftBank’s Arm Deal Gets More Enticing, Even With Major Hurdles"
+8/11/2021,22,6,0.33125,0.292245805,0.0558,general,App_Store,HIGH,Unity Software stock jumps 10% as analysts credit it with dodging Apple’s online-ad crackdown
+8/12/2021,21,0,0.186161616,0.313911647,0.0569,general,General,NEUTRAL,It's going to be a 'really long time' until Disney's streaming revenue is able to get close to theme park revenue
+8/13/2021,25,8,0.182557026,0.276708871,0.0562,regulatory,General,HIGH,Sonos Wins First Round in Patent Case Against Google at ITC
+8/14/2021,0,0,0,0,0,0,0,0,0
+8/15/2021,0,0,0,0,0,0,0,0,0
+8/16/2021,20,6,0.136363636,0.268165082,0.0572,legal,General,LOW,Apple bars employees from discussing pay equity: RPT
+8/17/2021,22,5,0.143421053,0.317640901,0.0584,regulatory,General,LOW,Apple to Increase Covid Testing of Staff as Delta Spreads
+8/18/2021,17,2,0.262142857,0.346601874,0.0588,general,General,NEUTRAL,3 Attractive Dividend Stocks Whose Dividends Could Double
+8/19/2021,26,8,0.070814732,0.462721467,0.0641,general,General,HIGH,Could This Ethical Technology Company be as Revolutionary as Tesla?
+8/20/2021,26,8,0.062205387,0.321328044,0.0588,regulatory,General,HIGH,Apple Unsuccessfully Attempted To Lure Away Former Google Search Chief Ben Gomes: Report
+8/21/2021,0,0,0,0,0,0,0,0,0
+8/22/2021,0,0,0,0,0,0,0,0,0
+8/23/2021,15,6,0.250757576,0.38428092,0.0612,general,iPhone,NEUTRAL,Apple iPhone Sales Remain Strong Despite Looming New Handset Launch
+8/24/2021,20,8,0.086525974,0.316332996,0.059,regulatory,General,LOW,"UPDATE 1-S.Korea set to curb Google, Apple commission dominance"
+8/25/2021,26,6,0.065340909,0.394586474,0.0626,regulatory,App_Store,LOW,"UPDATE 1-S.Korea parliament committee votes to curb Google, Apple commission dominance"
+8/26/2021,13,6,0.123280423,0.283549994,0.0572,product_launch,General,HIGH,Amazon (AMZN) Ups Cybersecurity Game With Latest Initiatives
+8/27/2021,31,6,0.070915679,0.377846837,0.0633,legal,App_Store,HIGH,Apple Settlement Lets App Makers Advertise Outside Payments
+8/28/2021,0,0,0,0,0,0,0,0,0
+8/29/2021,0,0,0,0,0,0,0,0,0
+8/30/2021,35,5,0.41,0.367066741,0.0612,general,General,LOW,2 Little-Followed Stocks That Are Soaring Monday
+8/31/2021,37,8.5,0.292478355,0.391977727,0.0611,earnings_beat,General,NEUTRAL,"Zoom, Robinhood Fall Premarket; Designer Brands Rises"
+9/1/2021,31,0,0.25,0.368769109,0.0612,general,General,HIGH,3 Top Warren Buffett Stocks to Buy in September
+9/2/2021,42,4,-0.010833333,0.269305319,0.0569,general,General,NEUTRAL,Indian Trio Reap $500 Million Each Selling Payments Startup
+9/3/2021,17,6,0.179166667,0.24437587,0.056,general,General,HIGH,3 Ways You Can Beat Warren Buffett in the Stock Market
+9/4/2021,0,0,0,0,0,0,0,0,0
+9/5/2021,0,0,0,0,0,0,0,0,0
+9/6/2021,0,0,0,0,0,0,0,0,0
+9/7/2021,38,8,0.080751263,0.269339323,0.0575,general,General,LOW,Affirm (NASDAQ:AFRM) set a Low Bar for its Q4 Report. Here is What Will Actually Drive High Growth
+9/8/2021,31,8,0.101273315,0.335921407,0.0603,product_launch,General,LOW,"Apple is facing a mountain of controversies, but investors don't seem to care"
+9/9/2021,23,6,0.065686275,0.245033085,0.0683,ceo_statement,General,LOW,Sheryl Sandberg Says Small Businesses Online Revolution Will Continue
+9/10/2021,69,8,0.044473304,0.468976736,0.0664,regulatory,General,NEUTRAL,Epic ruling invites future efforts to paint Apple as monopolist -experts
+9/11/2021,0,0,0,0,0,0,0,0,0
+9/12/2021,0,0,0,0,0,0,0,0,0
+9/13/2021,50,3,0.089834711,0.424385428,0.0652,general,General,LOW,"GLOBAL MARKETS-Asia makes watchful start, Nikkei nears 30-year high"
+9/14/2021,107,5,0.029264957,0.435839415,0.0659,general,General,HIGH,"S&amp;P, Dow Snap Five-Day Skid Ahead of CPI Report"
+9/15/2021,46,8,0.144131794,0.375548035,0.0629,product_launch,General,NEUTRAL,Apple (AAPL) Launches iPad Mini &amp; Watch 7 at September Event
+9/16/2021,26,8,0.042201518,0.382860452,0.0643,regulatory,General,LOW,"Russia Targets Google, Apple in Crackdown Before Elections"
+9/17/2021,29,5,0.1225,0.259421736,0.0621,ceo_statement,General,LOW,UPDATE 1-Apple's Cook says he will talk with U.S. official on immigration
+9/18/2021,0,0,0,0,0,0,0,0,0
+9/19/2021,0,0,0,0,0,0,0,0,0
+9/20/2021,36,5,0.118222086,0.274185359,0.0599,general,General,NEUTRAL,September's Weakness Provides Good Entry Point: Top 6 Picks
+9/21/2021,27,5,0.360561224,0.253310472,0.0592,general,General,HIGH,Is Apple Inc. (AAPL) A Good Stock To Buy?
+9/22/2021,32,6,0.048765432,0.2362964,0.0616,ceo_statement,General,HIGH,Facebook Chief Technology Officer Schroepfer to Step Down
+9/23/2021,40,8,0,0.331068128,0.063,general,General,NEUTRAL,Dow Jones Futures Rise Amid Mixed Evergrande News After Fed Meeting Fuels Stock Market Rally
+9/24/2021,10,8,0.212669801,0.294041187,0.0614,product_launch,iPhone,LOW,"Apple iPhone 13 and iPhone 13 Pro review: fantastic cameras, great battery life"
+9/25/2021,0,0,0,0,0,0,0,0,0
+9/26/2021,0,0,0,0,0,0,0,0,0
+9/27/2021,20,5,0.079338843,0.292752594,0.0617,general,Services,LOW,Peloton Just Made a Killer Deal With UnitedHealth
+9/28/2021,25,2,0.011111111,0.35300681,0.0646,general,General,HIGH,Apple spent $450M to buy 5 older buildings near its old Infinite Loop headquarters
+9/29/2021,21,0.5,0.295454545,0.485075235,0.0712,general,General,LOW,3 FAANG Stocks I Bought for My Starter Portfolio
+9/30/2021,14,5,0.072785205,0.319086552,0.0634,general,General,HIGH,Shares of Netflix Inc. Exceed 52-Week High
+10/1/2021,19,6,0.097368421,0.341810524,0.0646,general,General,LOW,Apple's iPhone privacy changes signal desire to enter advertising -RBC
+10/2/2021,0,0,0,0,0,0,0,0,0
+10/3/2021,0,0,0,0,0,0,0,0,0
+10/4/2021,28,6,0.107850186,0.408046186,0.0678,supply_chain,General,HIGH,Apple to Release New Watch on Oct. 15 Following Production Snags
+10/5/2021,33,0,0.15,0.430909574,0.0694,general,General,HIGH,How the FAANG stocks recovery proves the resilience of tech
+10/6/2021,17,2,0.05911645,0.283747613,0.0624,general,General,HIGH,"The Zacks Analyst Blog Highlights: Apple, Mastercard, Verizon, Target and Gilead Sciences"
+10/7/2021,19,8,0.12275641,0.395629883,0.0674,supply_chain,General,NEUTRAL,TSMC Leads Pushback in Taiwan Against Biden’s Chip Data Bid
+10/8/2021,20,8,0.117242424,0.309982419,0.0639,general,General,NEUTRAL,Apple plans big office expansion in Los Angeles area as it adds employees
+10/9/2021,0,0,0,0,0,0,0,0,0
+10/10/2021,0,0,0,0,0,0,0,0,0
+10/11/2021,16,2,0.280723906,0.362970918,0.0669,general,General,LOW,Billionaire DE Shaw’s Top 10 Stock Picks
+10/12/2021,33,8,0.11888188,0.40918234,0.066,earnings_beat,General,NEUTRAL,Why the Earnings Surprise Streak Could Continue for Apple (AAPL)
+10/13/2021,52,8,0.144711538,0.371340573,0.0682,supply_chain,General,HIGH,Apple Finally Falls Victim to Never-Ending Supply Chain Crisis
+10/14/2021,31,6,-0.155555556,0.272799373,0.0641,analyst_downgrade,General,HIGH,Apple Part Shortages Lead One Analyst to Chop 2022 Profit Estimates
+10/15/2021,28,5,0.225057915,0.25935927,0.0624,general,General,HIGH,11 Best Penny Stocks To Buy According To Hedge Funds
+10/16/2021,0,0,0,0,0,0,0,0,0
+10/17/2021,0,0,0,0,0,0,0,0,0
+10/18/2021,55,8,0.324242424,0.295742899,0.0655,product_launch,Mac,HIGH,Introducing M1 Pro and M1 Max: the most powerful chips Apple has ever built
+10/19/2021,41,2,0.074166667,0.338615537,0.0667,general,General,NEUTRAL,Dow Jones Futures Fall As Stock Market Rally Strengthens: First Bitcoin ETF To Debut; Tesla Nears Record High
+10/20/2021,16,8,0.238075196,0.284854561,0.0652,product_launch,General,NEUTRAL,Alphabet's (GOOGL) Google Ups Smartphone Game With Pixel Phones
+10/21/2021,34,6,0.041954545,0.355671376,0.0674,earnings_miss,General,LOW,"Snap shares drop 25% as revenue falls short, Apple privacy bites ads business"
+10/22/2021,48,8,0.059128788,0.492183,0.0755,supply_chain,General,NEUTRAL,Snap Warning Feeds Concerns Over Social Media Ad Splurge
+10/23/2021,0,0,0,0,0,0,0,0,0
+10/24/2021,0,0,0,0,0,0,0,0,0
+10/25/2021,37,4,-0.093650794,0.39127332,0.0702,general,General,NEUTRAL,Top 5 Nancy Pelosi Stocks
+10/26/2021,41,8,0.308333333,0.43115297,0.0723,general,General,NEUTRAL,These 10 Stocks Make Up 87% of Warren Buffett's Portfolio
+10/27/2021,36,8,0.150942029,0.375890732,0.0714,earnings_beat,General,HIGH,Microsoft Closes on Apple in Race for World’s Most Valuable Listed Firm
+10/28/2021,56,8,0,0.343626827,0.07,earnings_beat,General,LOW,Apple Reports Earnings Today. Here’s What to Expect.
+10/29/2021,0,0,0,0,0,0,0,0,0
+10/30/2021,0,0,0,0,0,0,0,0,0
+10/31/2021,0,0,0,0,0,0,0,0,0
+11/1/2021,0,0,0,0,0,0,0,0,0
+11/2/2021,0,0,0,0,0,0,0,0,0
+11/3/2021,0,0,0,0,0,0,0,0,0
+11/4/2021,0,0,0,0,0,0,0,0,0
+11/5/2021,0,0,0,0,0,0,0,0,0
+11/6/2021,0,0,0,0,0,0,0,0,0
+11/7/2021,0,0,0,0,0,0,0,0,0
+11/8/2021,0,0,0,0,0,0,0,0,0
+11/9/2021,0,0,0,0,0,0,0,0,0
+11/10/2021,0,0,0,0,0,0,0,0,0
+11/11/2021,0,0,0,0,0,0,0,0,0
+11/12/2021,0,0,0,0,0,0,0,0,0
+11/13/2021,0,0,0,0,0,0,0,0,0
+11/14/2021,0,0,0,0,0,0,0,0,0
+11/15/2021,0,0,0,0,0,0,0,0,0
+11/16/2021,0,0,0,0,0,0,0,0,0
+11/17/2021,0,0,0,0,0,0,0,0,0
+11/18/2021,19,8,0.088466296,0.35341543,0.0745,product_launch,Vision_Pro,HIGH,Apple aims to get a fully driverless car on the road
+11/19/2021,44,8,0.161737374,0.283176273,0.0746,analyst_upgrade,General,NEUTRAL,Why Apple Zoomed to Another All-Time High Today
+11/20/2021,0,0,0,0,0,0,0,0,0
+11/21/2021,0,0,0,0,0,0,0,0,0
+11/22/2021,23,0,0.1875,0.267759889,0.07,general,General,NEUTRAL,"Investing $100,000 Into These 2 Stocks 10 Years Ago Would Have Made You a Millionaire Today"
+11/23/2021,25,8,0.017909793,0.260319352,0.0695,regulatory,General,NEUTRAL,EU Lawmakers Pass Strict New Rules Affecting Big U.S. Tech
+11/24/2021,20,8,-0.15,0.263298899,0.0736,earnings_miss,General,LOW,"Dow Jones Slides As Yields Rise; Tesla Skids, While Gap, Nordstrom Plunge On Earnings"
+11/25/2021,0,0,0,0,0,0,0,0,0
+11/26/2021,21,8,0.264262187,0.267479718,0.0745,analyst_upgrade,General,HIGH,5 Trillion Reasons To Be Bullish On Tesla
+11/27/2021,0,0,0,0,0,0,0,0,0
+11/28/2021,0,0,0,0,0,0,0,0,0
+11/29/2021,18,8,0.142255892,0.368662417,0.0763,regulatory,General,HIGH,S&amp;P 500 Rebounds From Friday's Rout as Tech Reigns Supreme
+11/30/2021,25,8,0.6,0.296112359,0.0726,general,General,NEUTRAL,"Dow Jones Dives On This Powell Inflation Warning; Moderna Falls On Covid Fear; Apple, Tesla Stock Rally"
+12/1/2021,30,6,-0.044444444,0.389996052,0.078,general,General,LOW,"Dow Jones, Nasdaq Reverse Gains And Turn Negative; These Chip Stocks Are Actionable Now; Salesforce.com Drops Over 10%"
+12/2/2021,60,8,-0.075,0.509847999,0.0849,general,General,LOW,"Dow Jones Bounces, But Stock Market Sell-Off Worsens; Apple Slides On Weak iPhone Demand"
+12/3/2021,32,8,-0.018518519,0.440625817,0.0809,supply_chain,General,HIGH,"Why Lithium Americas, QuantumScape, and Blink Charging Stocks Got Destroyed Today"
+12/4/2021,0,0,0,0,0,0,0,0,0
+12/5/2021,0,0,0,0,0,0,0,0,0
+12/6/2021,34,0,0.3875,0.447608769,0.082,general,General,HIGH,"Jefferies Likes Facebook, Apple, Microsoft as Metaverse Plays"
+12/7/2021,49,6,0.05,0.357197523,0.0811,earnings_miss,General,HIGH,Should Investors Be Worried About Amazon After Its Lackluster Q3 Report?
+12/8/2021,41,0,0,0.407357633,0.0801,general,General,NEUTRAL,Dow Jones Stalls As Stock Market Pauses; Donald Trump SPAC Roars Again; Apple Stock Pops
+12/9/2021,33,5,0.121240602,0.435318857,0.0817,general,General,HIGH,Evgo Soars as 2021 Downloads on PlugShare Platform Top 1 Million
+12/10/2021,21,6,-0.081818182,0.240540758,0.0726,legal,General,LOW,#AppleToo leader Cher Scarlett accused Apple of breaking its promise regarding employee rights
+12/11/2021,0,0,0,0,0,0,0,0,0
+12/12/2021,0,0,0,0,0,0,0,0,0
+12/13/2021,56,6,0.170896465,0.276458383,0.0734,regulatory,General,LOW,Polish regulator to investigate Apple's privacy policy
+12/14/2021,54,4.5,0.142352092,0.34788689,0.0762,general,General,HIGH,WHO Issues Omicron Warning; Strain Spreads in U.S.: Virus Update
+12/15/2021,22,8,-0.073333333,0.300406694,0.0752,regulatory,General,LOW,UPDATE 4-Apple delays return to office indefinitely - Bloomberg News
+12/16/2021,32,8,0.016993464,0.268721938,0.0735,regulatory,General,LOW,Meta Cracks Down on Companies That Spied on Users in 100 Countries
+12/17/2021,28,8,0.375,0.360698938,0.0773,general,General,LOW,"Tech Stocks Roundup: Apple Brings Back Mask Mandate, Closes Stores Amid Covid-19 Surge"
+12/18/2021,0,0,0,0,0,0,0,0,0
+12/19/2021,0,0,0,0,0,0,0,0,0
+12/20/2021,19,6,0.07201725,0.494670749,0.0873,regulatory,iPhone,HIGH,iPhone chargers could be banned in Northern Ireland but not rest of the UK
+12/21/2021,28,5,0.13889678,0.358998865,0.0778,general,General,HIGH,3 Santa Claus Rally Stocks to Buy
+12/22/2021,28,2,0,0.359907895,0.078,general,General,NEUTRAL,"Stock buybacks set record in Q3, led by Apple, Meta, Google"
+12/23/2021,15,6,0.05,0.279650956,0.0768,legal,General,HIGH,SEC rejects Apple’s argument that it doesn’t try to silence workers after former employee disputed it
+12/24/2021,0,0,0,0,0,0,0,0,0
+12/25/2021,0,0,0,0,0,0,0,0,0
+12/26/2021,0,0,0,0,0,0,0,0,0
+12/27/2021,23,2,0.246296296,0.415512145,0.0818,general,General,LOW,Top 5 Active Noise Cancelling Headphones Tested
+12/28/2021,49,0,0.333333333,0.407774985,0.0817,general,General,NEUTRAL,The Metaverse Just Got Bigger During the Holidays
+12/29/2021,32,6,0.227861406,0.359732568,0.0808,regulatory,General,LOW,"Company News for Dec 29, 2021"
+12/30/2021,28,2,0.188455988,0.366176069,0.0794,general,General,NEUTRAL,"The Zacks Analyst Blog Highlights: Robinhood Markets, Tesla, Apple, Microsoft and Walmart"
+12/31/2021,0,0,0,0,0,0,0,0,0
+1/1/2022,0,0,0,0,0,0,0,0,0
+1/2/2022,0,0,0,0,0,0,0,0,0
+1/3/2022,36,8,0.128402597,0.261529028,0.0752,analyst_upgrade,General,LOW,Stock Market Today: Apple Leads Sweet Start for Stocks in 2022
+1/4/2022,38,8,0.12975656,0.253954321,0.0767,legal,General,LOW,What Investors Learned From the Elizabeth Holmes Trial: ‘Zero’
+1/5/2022,25,6,0.103211462,0.265271723,0.0773,legal,General,LOW,Roomba Maker Seeks to Block Rival SharkNinja Vacuums From U.S.
+1/6/2022,26,8,0.006666667,0.289685071,0.0752,general,General,NEUTRAL,Why Facebook Is a Must-Own Metaverse Stock in 2022
+1/7/2022,34,8,0.36038961,0.317204148,0.0769,general,General,NEUTRAL,"Financials, Big Tech Stocks AMD, Apple, Nvidia Lead New Buys By The Best Mutual Funds"
+1/8/2022,0,0,0,0,0,0,0,0,0
+1/9/2022,0,0,0,0,0,0,0,0,0
+1/10/2022,33,2,0.106666667,0.316185951,0.0772,general,General,HIGH,Fintech Startup Pine Labs To Seek $500 Million in U.S. IPO
+1/11/2022,23,5,0.119671958,0.333203763,0.0785,general,General,NEUTRAL,"With Political Volatility, $140 Will Be a Key Point for Alibaba Stock"
+1/12/2022,38,6,-0.067328042,0.338952959,0.0807,supply_chain,iPhone,LOW,UPDATE 1-Foxconn India's iPhone plant restarts production after December protests
+1/13/2022,41,6,0.10683181,0.304585129,0.0771,general,General,HIGH,"Market check: Nasdaq poised to end three-day streak, tech and health care lag"
+1/14/2022,25,8,0.124425287,0.321065664,0.0823,legal,General,LOW,Meta Platforms (FB) Faces Multibillion-Pound Legal Claim in UK
+1/15/2022,0,0,0,0,0,0,0,0,0
+1/16/2022,0,0,0,0,0,0,0,0,0
+1/17/2022,0,0,0,0,0,0,0,0,0
+1/18/2022,39,3,0.0796875,0.320123911,0.0787,general,General,LOW,"Here's How Cadence Is Set To Gain Despite Competition From Tesla, Apple"
+1/19/2022,32,5,0.09465812,0.333203763,0.0781,analyst_downgrade,General,LOW,"Here's How JP Morgan Views Meta, Amazon, Apple"
+1/20/2022,39,7,0.039444444,0.322693497,0.0807,supply_chain,General,LOW,Chip Linchpin Joins Carmakers in Warning of Vicious Supply Cycle
+1/21/2022,42,8,0.098376623,0.2631028,0.0824,earnings_beat,General,NEUTRAL,Microsoft (MSFT) to Report Q2 Earnings: What's in the Cards?
+1/22/2022,0,0,0,0,0,0,0,0,0
+1/23/2022,0,0,0,0,0,0,0,0,0
+1/24/2022,50,8,0.03452381,0.261754334,0.0827,earnings_beat,General,LOW,Xilinx (XLNX) Set to Report Q3 Earnings: What's in Store?
+1/25/2022,36,8,0.160833333,0.260784268,0.0828,earnings_beat,General,NEUTRAL,Apple (AAPL) to Report Q1 Earnings: What's in the Offing?
+1/26/2022,36,8,0.098570614,0.268900394,0.0835,earnings_beat,General,NEUTRAL,Microsoft stock climbs after hours on strong Q2 earnings
+1/27/2022,54,8,0.244444444,0.292438179,0.0852,earnings_beat,iPhone,HIGH,Apple Stock Rises As iPhone Maker Beats Holiday Sales Expectations
+1/28/2022,83,8,0.162689394,0.320333749,0.0872,earnings_beat,General,HIGH,"Apple (AAPL) Q1 Earnings Top Estimates, Revenues Surge Y/Y"
+1/29/2022,0,0,0,0,0,0,0,0,0
+1/30/2022,0,0,0,0,0,0,0,0,0
+1/31/2022,43,8,0.173084886,0.271369934,0.0845,earnings_beat,General,NEUTRAL,S&amp;P 500 in Rally Mode as Tech Continues Comeback
+2/1/2022,38,8,0.189323671,0.275168329,0.0849,earnings_beat,General,HIGH,Apple Stock Has More Room to Run Beyond Latest Earnings Blockbuster
+2/2/2022,40,4,0.128636364,0.298563153,0.0856,ceo_statement,General,LOW,Apple CEO Sees Big Potential in the Metaverse
+2/3/2022,63,8,0.12418536,0.2661677,0.0845,product_launch,iPhone,NEUTRAL,Apple Makes Progress in India as iPhone Sales Rise 34% to Record
+2/4/2022,43,8,0.045663265,0.269571841,0.0806,earnings_miss,General,NEUTRAL,Column: Is this the beginning of Facebook's downfall?
+2/5/2022,0,0,0,0,0,0,0,0,0
+2/6/2022,0,0,0,0,0,0,0,0,0
+2/7/2022,40,9.5,-0.073771645,0.264211982,0.0807,earnings_miss,Services,HIGH,Meta has 'dark days' ahead: analyst
+2/8/2022,44,5,0.078125,0.332168639,0.0843,general,General,HIGH,"4 Dow Jones Stocks To Buy And Watch In February 2022: Apple Rallies, American Express Breaks Out"
+2/9/2022,47,6,0.234415584,0.31289956,0.084,regulatory,General,LOW,Microsoft Lays Out New App Store Rules as It Seeks Approval of Its Activision Deal
+2/10/2022,33,8,0.146315193,0.32778573,0.0851,regulatory,General,LOW,S&amp;P 500 Slips as Fed's Bullard Rate Hike Call Rattles Stocks
+2/11/2022,26,5,0.129464286,0.358630627,0.0865,general,General,NEUTRAL,"This Tech Stock Could Soar 42%, and It Is a Terrific Bargain Right Now"
+2/12/2022,0,0,0,0,0,0,0,0,0
+2/13/2022,0,0,0,0,0,0,0,0,0
+2/14/2022,27,8,0.113139688,0.317662984,0.0864,analyst_downgrade,General,HIGH,What The Rock's arms and the S&amp;P 500 all have in common: Morning Brief
+2/15/2022,21,6,0.085227273,0.352668673,0.0861,product_launch,iPhone,NEUTRAL,Could Apple's Fintech Move Hurt Block and PayPal?
+2/16/2022,36,7,0.032465278,0.294237435,0.0854,analyst_downgrade,General,LOW,"Tesla Not Working on $25K EV a Potential Risk, Says Bernstein"
+2/17/2022,37,6,0.038666667,0.32778573,0.0855,general,General,LOW,Dow Jones Futures: Stock Market Is Minefield As Biden Sees 'Very High' Russia Risk; Roku Sells Off On Sales Miss
+2/18/2022,24,6,0.014309764,0.272600204,0.0828,regulatory,General,LOW,ISS supports Apple shareholder proposal on forced labor
+2/19/2022,0,0,0,0,0,0,0,0,0
+2/20/2022,0,0,0,0,0,0,0,0,0
+2/21/2022,0,0,0,0,0,0,0,0,0
+2/22/2022,23,6,0.037516292,0.327393293,0.0856,product_launch,General,LOW,Trump's Social Media App Banks On Startup Looking to Disrupt Big Tech
+2/23/2022,27,6,0.102333333,0.374964505,0.0894,general,General,HIGH,Warren Buffett’s Latest Portfolio: 10 Dividend Stock Picks
+2/24/2022,27,8,0.141782801,0.259119898,0.0893,supply_chain,General,HIGH,"Chip Supplier to Apple, Intel Warns of Tight Capacity Till 2027"
+2/25/2022,16,8,0,0.256493866,0.089,product_launch,iPhone,NEUTRAL,Apple Seen Unveiling Lower-Cost 5G iPhone At Upcoming Event
+2/26/2022,0,0,0,0,0,0,0,0,0
+2/27/2022,0,0,0,0,0,0,0,0,0
+2/28/2022,29,8,0.165530303,0.256976664,0.0896,product_launch,iPhone,LOW,Apple Is Putting Fintech Competitors on Notice
+3/1/2022,30,8,0.053166667,0.258097917,0.09,supply_chain,General,HIGH,The Coder Supply Chain Runs Through Ukraine
+3/2/2022,46,8,0.087700535,0.268337786,0.0907,product_launch,iPhone,NEUTRAL,Apple Confirms Plans for March 8 Event; 5G iPhone SE Expected
+3/3/2022,32,8,0.077272727,0.295153677,0.0926,product_launch,iPhone,LOW,"Apple to hold March 8 event, expected to bring new iPhone SE model"
+3/4/2022,36,6,0.08442029,0.259385914,0.0908,supply_chain,General,LOW,"Samsung Suspends Shipments of Phones, Chips to Russia"
+3/5/2022,0,0,0,0,0,0,0,0,0
+3/6/2022,0,0,0,0,0,0,0,0,0
+3/7/2022,42,7,0.070089286,0.27913487,0.0926,supply_chain,General,LOW,Boeing Slips on Halting Titanium Purchase from Russia
+3/8/2022,67,8,0.136433782,0.296150863,0.0938,product_launch,General,HIGH,Apple Unveils 5G Versions of iPad Air and Low-End iPhone SE
+3/9/2022,39,4,0.75,0.288729072,0.0932,product_launch,General,LOW,Why Apple Stock Lagged the Market Today
+3/10/2022,39,8,0.142390572,0.294006348,0.094,product_launch,General,LOW,Amazon Split and Buyback Could Deliver Much-Needed Liftoff
+3/11/2022,29,8,0.158322511,0.259104282,0.0916,product_launch,iPhone,LOW,Apple’s new iPhone SE: What to know
+3/12/2022,0,0,0,0,0,0,0,0,0
+3/13/2022,0,0,0,0,0,0,0,0,0
+3/14/2022,41,8,0.024092863,0.266149759,0.0931,supply_chain,General,HIGH,Apple Falls Below Key Level After Foxconn Closes China Plant
+3/15/2022,30,8,0.079841897,0.260218084,0.0863,analyst_upgrade,General,HIGH,"Snap Initiated With Buy At Deutsche Bank, Rises 7%"
+3/16/2022,24,8,0.177651515,0.256995976,0.0883,analyst_downgrade,General,HIGH,"Needham Sees Netflix Losing Out To Amazon, Disney, Apple and Other Streaming Rivals"
+3/17/2022,35,4,0.126420455,0.286754608,0.0872,general,General,HIGH,"Amazon, Apple, Tesla and others taking Austin by storm"
+3/18/2022,24,8,0.317482517,0.272044986,0.0876,analyst_upgrade,General,HIGH,Jefferies Lists Preferred Semiconductor Capital Equipment Stocks
+3/19/2022,0,0,0,0,0,0,0,0,0
+3/20/2022,0,0,0,0,0,0,0,0,0
+3/21/2022,24,6,0.5,0.275428712,0.0884,analyst_upgrade,General,HIGH,Apple Could Add $10 Billion of Revenue by Selling More Ads. Here’s How.
+3/22/2022,25,8,0.228623188,0.293216974,0.0885,general,General,HIGH,S&amp;P 500 Takes Aggressive Fed Rate Hike Bets in Stride
+3/23/2022,29,2,0.185416667,0.252393425,0.0915,ceo_statement,General,HIGH,Tim Cook Displays His Difference in Russian Invasion of Ukraine
+3/24/2022,35,6,-0.01765873,0.301390082,0.0896,supply_chain,Services,NEUTRAL,UPDATE 1-Apple says resolved iMessage issues after third services outage this week
+3/25/2022,36,8,0.238717532,0.29630062,0.0905,analyst_upgrade,General,HIGH,"BofA Coins New FANG Equivalent For Semiconductor Stocks, 'MANGO'"
+3/26/2022,0,0,0,0,0,0,0,0,0
+3/27/2022,0,0,0,0,0,0,0,0,0
+3/28/2022,57,6,-0.014709596,0.259576678,0.0906,analyst_downgrade,General,HIGH,"Midday Stock Movers: Tesla, Poly, Coinbase"
+3/29/2022,32,8,0.045454545,0.28795293,0.0893,general,General,LOW,1 Stock to Buy Hand Over Fist Before It Gets Too Late
+3/30/2022,51,6,0.193885281,0.29794383,0.0902,general,iPhone,LOW,Apple Cuts iPhone Trade-In Prices. That Could Mean Strong Demand for the New Models.
+3/31/2022,39,6,0.033487654,0.287314355,0.0898,supply_chain,General,NEUTRAL,"DWAC Drops 5% as Truth Download Data Slides, Bloomberg Reports"
+4/1/2022,37,8,0.164285714,0.259384125,0.0912,analyst_downgrade,General,HIGH,"J.P. Morgan drops Apple, Qualcomm from top picks as tech demand slows"
+4/2/2022,0,0,0,0,0,0,0,0,0
+4/3/2022,0,0,0,0,0,0,0,0,0
+4/4/2022,30,8,0.165888144,0.257181913,0.0905,earnings_beat,Services,LOW,Is Disney Stock a Buy or Sell Right Now?
+4/5/2022,23,6,0.110619589,0.260322899,0.0906,product_launch,General,LOW,Apple Developer Event to Be Online-Only for Third Year in a Row
+4/6/2022,27,3,0.093181818,0.296656996,0.0919,general,General,NEUTRAL,"Breakout Watch: Microsoft, Apple Among Stocks In Or Near Buy Zones But Face Market Pressure"
+4/7/2022,23,8,0.174479167,0.255503953,0.0906,product_launch,General,LOW,How Apple became one of the largest companies in the world
+4/8/2022,26,6,0.046311688,0.284694791,0.0967,legal,General,LOW,"BlackBerry (BB) Settles Class-action Lawsuit, to Pay $165M"
+4/9/2022,0,0,0,0,0,0,0,0,0
+4/10/2022,0,0,0,0,0,0,0,0,0
+4/11/2022,36,8,0.127093664,0.276025027,0.0928,product_launch,General,HIGH,Apple's (AAPL) Recent Upgrades to Attract New Customers
+4/12/2022,31,8,0.080695971,0.302846223,0.0952,earnings_beat,General,HIGH,Infosys (INFY) to Report Q4 Earnings: What's in the Offing?
+4/13/2022,33,8,0.133225108,0.260106832,0.0958,legal,App_Store,LOW,Apple's big motive for fighting a new antitrust law
+4/14/2022,31,8,0.075065876,0.312507808,0.096,product_launch,General,NEUTRAL,Semtech's (SMTC) New LoRa Edge LR1120 Strengthens Portfolio
+4/15/2022,0,0,0,0,0,0,0,0,0
+4/16/2022,0,0,0,0,0,0,0,0,0
+4/17/2022,0,0,0,0,0,0,0,0,0
+4/18/2022,24,8,-0.021164773,0.298848599,0.096,earnings_beat,General,HIGH,ASML Holding (ASML) to Post Q1 Earnings:: What's in the Cards?
+4/19/2022,29,0,0.1,0.296647936,0.0942,general,General,NEUTRAL,"Got $5,000? These 3 Inconspicuous Growth Stocks Are Trading Near Their 52-Week Lows"
+4/20/2022,30,6.5,0.211111111,0.250659645,0.0963,legal,General,NEUTRAL,Do You Use MetaMask With an Apple Device? Your Account May Be at Risk
+4/21/2022,31,6,0.168855219,0.258982509,0.097,legal,General,LOW,PRESS DIGEST- New York Times business news - April 21
+4/22/2022,36,2,0.075,0.29834938,0.0948,general,General,HIGH,What’s driving the nationwide push for labor unionization
+4/23/2022,0,0,0,0,0,0,0,0,0
+4/24/2022,0,0,0,0,0,0,0,0,0
+4/25/2022,29,8,-0.15,0.312607765,0.0964,general,General,LOW,"Dow Jones Extends Losses; Twitter, Elon Musk Set To Strike Deal"
+4/26/2022,47,8,0.12385981,0.255322725,0.1026,earnings_beat,General,NEUTRAL,SNAP Stock Could Drop in a Recession Even if it Makes Positive FCF
+4/27/2022,37,6,0.122992424,0.255503297,0.1044,ceo_statement,General,HIGH,Here's why Netflix's ad-supported tier could 'force a lot of change'
+4/28/2022,60,8,0.433333333,0.250469089,0.1094,analyst_upgrade,General,LOW,Baird's Power Expects Strong Quarter From Apple
+4/29/2022,77,8,0.139842873,0.272834063,0.1046,earnings_beat,General,NEUTRAL,"Apple (AAPL) Q2 Earnings Top Estimates, Revenues Increase Y/Y"
+4/30/2022,0,0,0,0,0,0,0,0,0
+5/1/2022,0,0,0,0,0,0,0,0,0
+5/2/2022,44,8,0.054345238,0.292410851,0.1096,product_launch,General,HIGH,Truth Social app to be available via web browser ‘end of May’ – CEO
+5/3/2022,29,8,0,0.256905317,0.111,analyst_upgrade,General,HIGH,"With interest rates rising, it’s time to focus on MANG stocks instead of FAANG, according to Jefferies"
+5/4/2022,27,8,0.1919029,0.27898553,0.1061,earnings_beat,General,LOW,Buy and Hold Intel Stock
+5/5/2022,20,6,0,0.274068326,0.1031,general,General,NEUTRAL,Microsoft is using “Fortnite” to fuel its cloud gaming growth
+5/6/2022,24,2,0.087065972,0.274068326,0.1033,general,General,LOW,Alphabet Stock Should Still Be on Investors’ Shopping Lists
+5/7/2022,0,0,0,0,0,0,0,0,0
+5/8/2022,0,0,0,0,0,0,0,0,0
+5/9/2022,30,6,0.092678571,0.249486268,0.1074,product_launch,Services,HIGH,Alphabet (GOOGL) Boosts YouTube Music With Latest Effort
+5/10/2022,25,6,0.131481481,0.276848167,0.1099,product_launch,General,LOW,Apple Granted EV Charging Station Patent
+5/11/2022,24,8,0.09110424,0.265347034,0.1091,product_launch,General,LOW,"Google Creates Wallet App for Credit Cards, Tickets, Car Keys"
+5/12/2022,48,8,0.129256854,0.256037951,0.1085,product_launch,General,HIGH,Alphabet (GOOGL) Expands Hardware Business With Latest Devices
+5/13/2022,39,2,0,0.267095238,0.1014,general,General,LOW,Apple AirPods Max vs. Sony WH-1000XM5: Which Premium Headphones Deserve a Look
+5/14/2022,0,0,0,0,0,0,0,0,0
+5/15/2022,0,0,0,0,0,0,0,0,0
+5/16/2022,19,0,0.35,0.301524997,0.1048,general,General,HIGH,10 Battered Tech Stocks Advisors Should Consider for Clients
+5/17/2022,26,8,0.097354978,0.253277421,0.1039,analyst_upgrade,General,LOW,A Look at Apple’s Untapped Advertising Opportunity
+5/18/2022,29,8,0.105194805,0.279435873,0.1034,general,General,LOW,"10 years after Facebook’s record-breaking IPO, a sense of déjà vu"
+5/19/2022,33,8,0.173210466,0.302949578,0.1055,general,General,NEUTRAL,10 Best Stocks to Buy Now According to Billionaire Ken Fisher
+5/20/2022,32,2,0.158816425,0.308241725,0.1061,general,General,HIGH,Michael Burry is Shorting Apple (AAPL) and Selling These 5 Stocks in 2022
+5/21/2022,0,0,0,0,0,0,0,0,0
+5/22/2022,0,0,0,0,0,0,0,0,0
+5/23/2022,33,8.5,0.17335373,0.334045082,0.1119,analyst_upgrade,General,LOW,Here's Why Analysts Are Bullish On Zoom Despite Selloff
+5/24/2022,30,8,0.129166667,0.340151608,0.1126,analyst_upgrade,General,NEUTRAL,BofA Lists Reasons For Its Bullishness On Apple
+5/25/2022,29,4,0.202666667,0.320758909,0.1081,general,General,HIGH,"S&amp;P 500 Climbs as Tech Rallies, Retailers Rebound After Fed Minutes"
+5/26/2022,44,7,-0.041666667,0.297583491,0.1068,supply_chain,iPhone,HIGH,Apple Stock Is Slipping While Rivals Are Bouncing Back. Here’s Why.
+5/27/2022,24,8,0.386662698,0.272033453,0.1045,general,General,LOW,Warren Buffett says these are the very best businesses to own — 3 high-quality examples from Berkshire's portfolio
+5/28/2022,0,0,0,0,0,0,0,0,0
+5/29/2022,0,0,0,0,0,0,0,0,0
+5/30/2022,0,0,0,0,0,0,0,0,0
+5/31/2022,16,6,0,0.313246787,0.1118,analyst_upgrade,General,NEUTRAL,"Apple Stock Sees Relative Strength Upgrade, But Still Under Key Technical Benchmark"
+6/1/2022,19,6,0.133610322,0.333818376,0.1138,analyst_upgrade,General,HIGH,‘It is like watching a plane crash’ — Michael Burry thinks the market has plenty of room to plunge. But he finally sees value in these 5 stocks
+6/2/2022,22,2,0.271130952,0.303701282,0.1082,general,General,LOW,3 Best Retirement Stocks to Buy for Long-Term Wealth
+6/3/2022,31,2,0.091666667,0.352202922,0.1124,general,General,HIGH,"Warren Buffett Has a ""Hidden"" $6.3 Billion Portfolio: Here's What's in It"
+6/4/2022,0,0,0,0,0,0,0,0,0
+6/5/2022,0,0,0,0,0,0,0,0,0
+6/6/2022,62,8,0.056426332,0.248706222,0.1113,supply_chain,General,HIGH,Dreams of improved supply chains 'shattered' for the near term: Citi
+6/7/2022,64,8,0.036796537,0.250280708,0.1085,regulatory,iPhone,LOW,Brussels agrees new law on single standard charger in blow to Apple
+6/8/2022,33,8,0,0.248249248,0.1117,supply_chain,General,LOW,Apple to shift some iPad production to Vietnam amid China supply chain woes
+6/9/2022,40,8.5,0.045362319,0.279465765,0.1178,analyst_downgrade,General,LOW,"Spotify 'not well-run' operationally despite bullish podcast sentiment, says analyst"
+6/10/2022,48,8,0.125011478,0.248249248,0.1151,analyst_downgrade,Services,LOW,Goldman cuts Netflix to 'Sell' citing competition and a 'consumer recession'
+6/11/2022,0,0,0,0,0,0,0,0,0
+6/12/2022,0,0,0,0,0,0,0,0,0
+6/13/2022,31,6,0.070039683,0.246449918,0.1126,supply_chain,Vision_Pro,HIGH,Meta Platforms (META) Halts Dual-Camera Smartwatch Development
+6/14/2022,42,6,0.057407407,0.247575685,0.1157,analyst_downgrade,General,HIGH,Deutsche Bank cuts Apple price target in note cautious on IT hardware sector
+6/15/2022,40,8,0.025906863,0.246676594,0.1161,analyst_downgrade,General,LOW,CEO’s Confidence Isn’t What Affirm Stock Needs Now
+6/16/2022,17,8,0.018303571,0.283559233,0.1103,general,General,HIGH,China’s No. 2 Online Mall Warns Consumer Recovery Months Away
+6/17/2022,26,8,0.126565657,0.279465765,0.113,regulatory,General,HIGH,"Nations Pull WTO Back From the Brink With Vaccine, Fishery Deals"
+6/18/2022,0,0,0,0,0,0,0,0,0
+6/19/2022,0,0,0,0,0,0,0,0,0
+6/20/2022,0,0,0,0,0,0,0,0,0
+6/21/2022,28,6,0.22,0.245418668,0.1143,supply_chain,iPhone,NEUTRAL,Apple’s iPhone Output Said to Have Soared in China. That’s Some Good News Amid the Tech Selloff.
+6/22/2022,19,8,0.165861244,0.250186384,0.1116,regulatory,General,HIGH,"‘Left Behind’ Tech Workers Ready to Embrace Labor, Union Says"
+6/23/2022,28,8,0.109900593,0.256154507,0.1124,regulatory,App_Store,HIGH,"Apple Says US Bill Would Make App Store Less Secure, But Its Critics Aren’t So Sure"
+6/24/2022,28,6,0.079924242,0.247533605,0.1047,legal,General,NEUTRAL,Apple will not challenge Maryland store unionization vote
+6/25/2022,0,0,0,0,0,0,0,0,0
+6/26/2022,0,0,0,0,0,0,0,0,0
+6/27/2022,30,6,0.175,0.249336794,0.1054,legal,General,LOW,U.S. Supreme Court won't hear Apple's bid to revive Qualcomm patent challenges
+6/28/2022,37,8,0.116944444,0.305659145,0.1076,general,General,HIGH,7 Growth Stocks to Buy After the Market Crash
+6/29/2022,39,2,0,0.312100142,0.1083,general,iPhone,LOW,Apple celebrates 15-year anniversary of the iPhone
+6/30/2022,44,8,-0.025,0.276768655,0.1084,legal,General,HIGH,Former Apple lawyer pleads guilty over insider trading scheme
+7/1/2022,35,2.5,0.2,0.337341905,0.1108,general,General,HIGH,Are Netflix and Roku a Match Made in Heaven?
+7/2/2022,0,0,0,0,0,0,0,0,0
+7/3/2022,0,0,0,0,0,0,0,0,0
+7/4/2022,0,0,0,0,0,0,0,0,0
+7/5/2022,28,5,0,0.360584468,0.1136,general,General,HIGH,Dow Jones Falls; Tesla Gains Despite Delivery Data; This Stock Drops As Warren Buffett Raises Stake
+7/6/2022,29,6,0.167329545,0.322541088,0.113,earnings_miss,Services,HIGH,Alphabet vs. Apple: Which FAANG Stock Does Wall Street Like the Most?
+7/7/2022,29,6,0.108333333,0.31519863,0.111,product_launch,General,NEUTRAL,Alphabet (GOOGL) Boosts Google Photos With Pop-Up UI Update
+7/8/2022,20,0,0.136363636,0.29677847,0.1089,general,General,LOW,NFL is seeking a streaming platform to host its Sunday Ticket
+7/9/2022,0,0,0,0,0,0,0,0,0
+7/10/2022,0,0,0,0,0,0,0,0,0
+7/11/2022,33,2,0.15874519,0.309956759,0.1106,general,General,HIGH,Penny Pritzker details Chicago’s 'massively vibrant' tech industry
+7/12/2022,27,8,0.028483894,0.348706812,0.1141,general,General,NEUTRAL,Secret Recession Indicator Points to a Massive Stock Market Rebound
+7/13/2022,25,8,0.237530063,0.305790454,0.1107,general,General,HIGH,5 Best Stocks to Buy if You Have $250 to Spend
+7/14/2022,25,2,0.076161616,0.322567284,0.1123,general,General,HIGH,Congress Wants to Regulate Big Tech. A New Survey Finds Voters Don’t Care.
+7/15/2022,18,6,0.08,0.251340955,0.1093,legal,App_Store,LOW,Apple urges federal court to throw out App Store injunction in Epic case
+7/16/2022,0,0,0,0,0,0,0,0,0
+7/17/2022,0,0,0,0,0,0,0,0,0
+7/18/2022,40,3,0.45,0.311703235,0.1132,general,General,HIGH,3 Stocks You'll Be Happy You Own When the Bear Market Is Over
+7/19/2022,53,6,0.017828283,0.254441381,0.1116,legal,Mac,HIGH,Apple reaches $50 mln settlement over defective MacBook keyboards
+7/20/2022,40,0,0.0325,0.261305124,0.1092,general,General,HIGH,Apple Stock Is Mounting A Comeback; Why This Diagonal Spread Can Earn $500
+7/21/2022,31,2,0.028063241,0.296347111,0.1125,general,General,LOW,How the metaverse is slowly transforming the workplace
+7/22/2022,34,0,0.088888889,0.279284179,0.1112,general,General,LOW,3 Stocks That Will Send Bears Back into Hibernation
+7/23/2022,0,0,0,0,0,0,0,0,0
+7/24/2022,0,0,0,0,0,0,0,0,0
+7/25/2022,58,2,0.036218,0.406443477,0.123,general,General,LOW,"US STOCKS-S&amp;P 500 ends choppy session nearly flat; investors eye Fed, earnings"
+7/26/2022,30,4,0.15,0.295232296,0.1126,earnings_miss,General,HIGH,"Alphabet’s Earnings Missed, but Ad Revenue Was Better Than Feared"
+7/27/2022,33,5,0.097146032,0.323137701,0.1161,general,General,NEUTRAL,7 Blue-Chip Stocks to Buy on the Dip
+7/28/2022,56,6,0.01673998,0.325739682,0.1177,earnings_beat,General,HIGH,"Amazon, Apple Up on Earnings; Intel Takes a Bath"
+7/29/2022,70,4,0.366666667,0.339121699,0.1171,earnings_miss,Services,LOW,"Apple TV+ content earns 250 award wins, Q3 revenue growth slows to $19.6 billion"
+7/30/2022,0,0,0,0,0,0,0,0,0
+7/31/2022,0,0,0,0,0,0,0,0,0
+8/1/2022,34,8,0.166941392,0.262365848,0.112,analyst_downgrade,Services,LOW,"Apple TV+ 'never' set out to win streaming, still 'limited' versus Netflix: Analyst"
+8/2/2022,19,6,-0.016666667,0.240342274,0.1299,ceo_statement,General,HIGH,3 Bullish Comments From Apple Management
+8/3/2022,26,8,0.236429513,0.243548334,0.108,earnings_beat,Services,NEUTRAL,"S&amp;P 500 in Rally Mode on Positive Earnings, Stronger Economic Data"
+8/4/2022,16,6,0.2,0.251373261,0.1073,general,General,NEUTRAL,Better Buy: Apple or Every Nasdaq Stock?
+8/5/2022,22,8,-0.031444738,0.238758489,0.109,earnings_miss,General,NEUTRAL,Analysts Say Buy These 10 Stocks Despite Earnings Miss
+8/6/2022,0,0,0,0,0,0,0,0,0
+8/7/2022,0,0,0,0,0,0,0,0,0
+8/8/2022,20,2,0.127898551,0.245128229,0.1075,general,General,NEUTRAL,Clearwater Paper and Logitech International have been highlighted as Zacks Bull and Bear of the Day
+8/9/2022,38,6,-0.025572047,0.259453654,0.1116,earnings_miss,General,HIGH,Disney earnings: What to expect as 'big strategic questions' loom for media giant
+8/10/2022,26,8,0.073148148,0.244002119,0.1095,earnings_beat,General,NEUTRAL,Disney stock pops amid earnings beat and streaming subscriber growth
+8/11/2022,22,8,-0.035277778,0.244415611,0.1105,earnings_miss,General,HIGH,Rivian Leads EV Slump After Investors Shun Money Losers
+8/12/2022,33,8,0.102050727,0.283953756,0.1117,general,General,HIGH,Apple’s Big Rally Gives Stock Bulls Something to Cheer About
+8/13/2022,0,0,0,0,0,0,0,0,0
+8/14/2022,0,0,0,0,0,0,0,0,0
+8/15/2022,39,6,0.15681445,0.351078272,0.1182,general,General,NEUTRAL,Is Most-Watched Stock Apple Inc. (AAPL) Worth Betting on Now?
+8/16/2022,42,5,0.003271849,0.276175559,0.1119,general,General,HIGH,Jim Cramer Recommends Selling These 10 Stocks in August
+8/17/2022,28,2,0.0953125,0.286982805,0.1129,general,General,NEUTRAL,How Warren Buffett's Berkshire Hathaway Lost Nearly $44 Billion in Q2
+8/18/2022,26,6,0.161588412,0.29164505,0.1137,general,General,LOW,What Did Buffett Buy During the Summer Bear Market?
+8/19/2022,25,8.3,0.068,0.24698323,0.1127,earnings_miss,General,LOW,Xiaomi Profit Misses Estimates on Smartphone Business Slump
+8/20/2022,0,0,0,0,0,0,0,0,0
+8/21/2022,0,0,0,0,0,0,0,0,0
+8/22/2022,24,6,0.097671569,0.295209318,0.1149,general,General,NEUTRAL,Apple employees claim they’re doing ‘exceptional work’ remotely as Tim Cook orders them back. They’re probably wrong
+8/23/2022,26,8,0.037188057,0.305936992,0.1133,product_launch,iPhone,NEUTRAL,2 Simple Reasons Why Apple's Next iPhone Could Be a Roaring Success
+8/24/2022,40,6,0.191666667,0.268704176,0.1253,supply_chain,General,HIGH,Vietnam to start making Apple Watch and MacBook for first time
+8/25/2022,14,8,0.5,0.23111999,0.1254,earnings_beat,General,LOW,Is Apple Stock a Buy After Its Latest Earnings?
+8/26/2022,26,2,0.244444444,0.262023896,0.1206,general,General,LOW,Apple's Entry-Level iPad is Just $279 on Amazon
+8/27/2022,0,0,0,0,0,0,0,0,0
+8/28/2022,0,0,0,0,0,0,0,0,0
+8/29/2022,34,4,0.143428854,0.242393911,0.1239,supply_chain,General,LOW,Apple iPad faces longest lead time: JPMorgan report
+8/30/2022,17,5,0.020756303,0.261764467,0.1215,general,General,LOW,Are Options Traders Betting on a Big Move in Apple (AAPL) Stock?
+8/31/2022,18,8,-0.031090909,0.314213216,0.1268,general,General,NEUTRAL,"Snap Will Cut 20% of Workforce, Slash Investments, Add COO"
+9/1/2022,27,8,0.137525253,0.244572073,0.1287,earnings_beat,General,LOW,"Broadcom Gives Strong Forecast, Evading the Chip Slump"
+9/2/2022,33,8,0.005681818,0.334600925,0.1285,product_launch,iPhone,LOW,Here's What You Might See On The New Apple iPhone 14
+9/3/2022,0,0,0,0,0,0,0,0,0
+9/4/2022,0,0,0,0,0,0,0,0,0
+9/5/2022,0,0,0,0,0,0,0,0,0
+9/6/2022,32,6,0,0.434392065,0.1399,general,General,HIGH,"Dow Jones Futures: Nasdaq Extends Losing Streak, Enphase Shines; Apple iPhone 14 On Call"
+9/7/2022,68,2,0.185822511,0.34934023,0.1319,general,General,LOW,9 Best Tech Stocks to Buy According to Hedge Funds
+9/8/2022,59,6,0.216666667,0.347155929,0.1317,general,iPhone,HIGH,Apple CEO Tim Cook won’t raise iPhone 14 prices. He must first deal with a fierce rival — and it’s not Samsung
+9/9/2022,39,8,0,0.311555624,0.1278,product_launch,iPhone,HIGH,These 3 Tech Stocks Are Building the Future
+9/10/2022,0,0,0,0,0,0,0,0,0
+9/11/2022,0,0,0,0,0,0,0,0,0
+9/12/2022,32,8,0.178787879,0.370034516,0.1403,supply_chain,iPhone,LOW,Why Apple Stock Popped Monday Morning
+9/13/2022,36,8,0.149770432,0.244597971,0.1342,supply_chain,General,HIGH,"India Wins $20B Semiconductor Tech Investment From Apple Supplier, Vedanta Kicking Off Its Journey As A Chip Maker"
+9/14/2022,31,6,0.024848485,0.237261638,0.1271,ceo_statement,General,LOW,"Affirm CEO talks recession, Apple Pay Later, and being an entrepreneur in volatile markets"
+9/15/2022,34,8,-0.092592593,0.234376222,0.1272,legal,General,LOW,Why Investors Lost Their Taste for Apple Today
+9/16/2022,24,8,-0.11712963,0.243798584,0.1257,regulatory,General,HIGH,"Google, Microsoft Search Engine Users Fall Prey To Malvertising"
+9/17/2022,0,0,0,0,0,0,0,0,0
+9/18/2022,0,0,0,0,0,0,0,0,0
+9/19/2022,17,2,-0.111111111,0.242203936,0.1355,supply_chain,iPhone,HIGH,Apple set to release fix for iPhone 14 Pro's shaky camera
+9/20/2022,35,3,0.0625,0.249361351,0.1362,supply_chain,General,LOW,Ford and GE Supply-Chain Woes Show Where Fed Power Stops
+9/21/2022,18,8,0.011538462,0.255675524,0.1372,supply_chain,iPhone,LOW,Apple may move a quarter of iPhone production to India by 2025 -JPM
+9/22/2022,30,3,0.209090909,0.297190964,0.1303,general,General,LOW,Should Apple Make Its Own Search Engine and Cut Google Out of the Mix?
+9/23/2022,34,3,0.154761905,0.241173625,0.1364,supply_chain,iPhone,NEUTRAL,"Apple Resolves iPhone 14 Pro Camera Glitch, As Promised"
+9/24/2022,0,0,0,0,0,0,0,0,0
+9/25/2022,0,0,0,0,0,0,0,0,0
+9/26/2022,42,6,0.069444444,0.391543925,0.1538,supply_chain,iPhone,HIGH,Apple expands iPhone production in India in shift away from China
+9/27/2022,16,8,0.161111111,0.253860027,0.1386,supply_chain,General,LOW,Tim Cook and Apple Make a Move That Could Annoy China
+9/28/2022,51,8,0,0.308631122,0.1452,supply_chain,iPhone,LOW,"Dow Jones Futures Cut Losses On Bank Of England Reversal; Apple Falls On iPhone Report, Biogen Soars On Alzheimer's Drug"
+9/29/2022,37,8,0.060628019,0.347922444,0.149,analyst_downgrade,iPhone,LOW,"Apple’s Ugly Day Wipes Out $120 Billion, Spills Over Big Tech"
+9/30/2022,40,5,0.026489722,0.272926718,0.1417,supply_chain,General,HIGH,"Apple exec departs after TikTok remarks, Disney+ gets new president, Google to sunset Stadia"
+10/1/2022,0,0,0,0,0,0,0,0,0
+10/2/2022,0,0,0,0,0,0,0,0,0
+10/3/2022,21,6,0.073232323,0.328604966,0.1413,ceo_statement,General,HIGH,"Apple CEO Tim Cook predicts AR will have ‘profound’ impact, downplays metaverse"
+10/4/2022,37,8,0.216609977,0.315401047,0.1473,supply_chain,iPhone,NEUTRAL,Apple iPhone Exports From India Doubling in Boon to Modi’s Plan
+10/5/2022,25,2,0.131238095,0.26281172,0.1298,general,General,LOW,Warner Bros. Discovery's (WBD) HBO Max Reveals Halloween Lineup
+10/6/2022,30,8,0.199837662,0.26196602,0.1378,earnings_miss,General,LOW,1 Tech Stock to Avoid Like the Plague Right Now
+10/7/2022,22,8,0.05785124,0.247327641,0.1293,regulatory,General,NEUTRAL,Biden Tightens China Chip Rules on Chaotic Day for Industry
+10/8/2022,0,0,0,0,0,0,0,0,0
+10/9/2022,0,0,0,0,0,0,0,0,0
+10/10/2022,28,5,0.044444444,0.26659745,0.1314,general,General,LOW,Prologis Passes American Tower Corp In Size By Market Cap - Becomes The Highest Valued REIT
+10/11/2022,24,6,0.176893939,0.304253191,0.1339,product_launch,iPhone,NEUTRAL,India looks to move up tech value chain with iPhone plant deal
+10/12/2022,28,8,0.136329706,0.296828598,0.1345,earnings_beat,General,HIGH,Why Apple (AAPL) Could Beat Earnings Estimates Again
+10/13/2022,29,2,0.136363636,0.289858878,0.1346,general,Services,LOW,Apple announces high-yield savings account for credit card holders
+10/14/2022,15,6,-0.11007326,0.249693364,0.1388,earnings_miss,Services,HIGH,Netflix (NFLX) Gears Up for Q3 Earnings: What's in the Cards?
+10/15/2022,0,0,0,0,0,0,0,0,0
+10/16/2022,0,0,0,0,0,0,0,0,0
+10/17/2022,20,8,0.5,0.337111145,0.14,earnings_beat,General,HIGH,Dow Jones Futures Rally As Bank Of America Jumps On Earnings; Apple Called Top Pick
+10/18/2022,34,8,-0.044567901,0.46555841,0.1541,general,General,NEUTRAL,3 Growth Stocks to Buy in a Bear Market
+10/19/2022,19,8,0.022440312,0.296294093,0.1365,general,General,NEUTRAL,Asian Stocks Sink as China Slowdown Fears Persist
+10/20/2022,12,8,0.114393939,0.369200766,0.1442,earnings_beat,General,HIGH,MSCI Scheduled to Report Q3 Earnings: What's in the Cards?
+10/21/2022,39,2,-0.0625,0.371709496,0.1453,general,General,HIGH,Merck Stock In Bullish Setup Ahead Of Q3 Results; Apple Leads FAANG Earnings Barrage
+10/22/2022,0,0,0,0,0,0,0,0,0
+10/23/2022,0,0,0,0,0,0,0,0,0
+10/24/2022,32,2,0.040625,0.326562464,0.1413,general,General,HIGH,"Dow Jones Rallies 400 Points, What To Do Now; Alphabet, Apple, Meta, Microsoft To Report"
+10/25/2022,39,3.5,0.241221741,0.33120051,0.151,earnings_miss,Services,LOW,Don't Overlook Service Revenues in Apple's Q4
+10/26/2022,28,8,-0.033333333,0.382957429,0.1473,earnings_beat,General,LOW,Apple Q4 Results Expected to Lean on Services Gains
+10/27/2022,41,5,0.136363636,0.358940959,0.1462,general,General,HIGH,"Apple stock: What to expect from earnings, iPhone 14 demand"
+10/28/2022,66,8,0.02226455,0.244946465,0.1427,earnings_miss,General,LOW,Big-Tech Stocks Lose $400 Billion — And They’re Still Expensive
+10/29/2022,0,0,0,0,0,0,0,0,0
+10/30/2022,0,0,0,0,0,0,0,0,0
+10/31/2022,50,6,0.004886831,0.257748038,0.1458,legal,General,LOW,Apple’s Online Store and Information Systems Chiefs Are Leaving
+11/1/2022,23,8,0.164536341,0.316345274,0.1429,general,General,LOW,10 Best Stocks To Buy For A Weak US Dollar
+11/2/2022,27,6,-0.083333333,0.269235522,0.1475,legal,General,LOW,Former employee pleads guilty to defrauding Apple out of $17 million
+11/3/2022,23,8,0.5,0.288244635,0.1404,general,General,NEUTRAL,Tim Cook has been an excellent leader for Apple – these numbers prove it
+11/4/2022,24,8,0,0.334921837,0.1458,general,General,NEUTRAL,"Market Rally Buckling From Fed, Apple, Tesla, Cloud Stocks; What To Do Now"
+11/5/2022,0,0,0,0,0,0,0,0,0
+11/6/2022,0,0,0,0,0,0,0,0,0
+11/7/2022,62,8,-0.166666667,0.448187143,0.1582,supply_chain,iPhone,NEUTRAL,Apple warns that iPhone 14 Pro shipments will be hit by China production snags
+11/8/2022,25,8,0.035474537,0.301086754,0.1523,earnings_miss,iPhone,LOW,Apple Stock’s Safe-Haven Status at Risk as Headwinds Mount
+11/9/2022,21,8,-0.5,0.364946514,0.1499,supply_chain,General,HIGH,Goertek/Apple: single-client risk amplifies AirPod contract doubts
+11/10/2022,39,8,0.5,0.250734299,0.1478,legal,General,HIGH,"Microsoft co-founder's art fetches $1.5 billion, Apple and Amazon face lawsuit, Redfin cuts staff"
+11/11/2022,20,6,0.031305704,0.334921837,0.1469,supply_chain,General,LOW,China's Singles' Day shopping festival fuels smartphone price war as major vendors seek to stimulate demand in weak market
+11/12/2022,0,0,0,0,0,0,0,0,0
+11/13/2022,0,0,0,0,0,0,0,0,0
+11/14/2022,26,6,-0.6,0.322921306,0.1569,analyst_downgrade,iPhone,HIGH,Apple Analysts Keep Cutting iPhone Shipment Estimates
+11/15/2022,26,2,0.172222222,0.386065245,0.1546,general,General,LOW,Warren Buffett Is Living Off These Five Stocks
+11/16/2022,22,6,0,0.253111839,0.1448,supply_chain,iPhone,HIGH,Some Apple iPhones Won’t Be Delivered Before Christmas
+11/17/2022,14,8,0.106550802,0.241415367,0.1437,supply_chain,iPhone,NEUTRAL,"Foxconn hires over 100,000 workers for COVID-hit Chinese plant - Yicai"
+11/18/2022,26,8,0.516666667,0.262213796,0.1496,earnings_beat,General,LOW,Is The Trade Desk Stock a Buy Now?
+11/19/2022,0,0,0,0,0,0,0,0,0
+11/20/2022,0,0,0,0,0,0,0,0,0
+11/21/2022,19,8,-0.025,0.255431026,0.1464,supply_chain,General,HIGH,Rivian Under Scrutiny As Employees Allege Safety Breach At Illinois Plant
+11/22/2022,23,8,0.246203704,0.264109731,0.1477,supply_chain,iPhone,HIGH,Apple's Pro iPhones will be harder to find in stores this holiday -Best Buy
+11/23/2022,31,8,0.149857955,0.279426634,0.1599,analyst_upgrade,iPhone,LOW,"Wedbush reiterates bullish rating on Apple stock, citing holiday iPhone demand"
+11/24/2022,0,0,0,0,0,0,0,0,0
+11/25/2022,33,6,0.075009353,0.233250454,0.1547,analyst_upgrade,General,LOW,Analysts are Upgrading These 9 Tech Stocks
+11/26/2022,0,0,0,0,0,0,0,0,0
+11/27/2022,0,0,0,0,0,0,0,0,0
+11/28/2022,52,8,0.109090909,0.34288609,0.1587,supply_chain,iPhone,LOW,6M Shortfall In Apple iPhone Pro Models - China's Foxconn's Plant Outrage Impact On Apple
+11/29/2022,64,8,0.057210999,0.461314678,0.1727,supply_chain,iPhone,HIGH,iPhone Pro Wait Times Hit New Peak After Factory Disruptions
+11/30/2022,53,8,0.151515152,0.418589205,0.1683,supply_chain,iPhone,NEUTRAL,Can’t Find an iPhone 14 Pro by Christmas? Here’s What You Can Do
+12/1/2022,38,8,0,0.26695174,0.1579,analyst_downgrade,General,NEUTRAL,Apple’s iPhone Production Woes Will Hit Revenue. Another Analyst Weighs In on How Much.
+12/2/2022,26,8,-0.002104377,0.312512785,0.1598,earnings_beat,General,LOW,PayPal Is Down 61% This Year - What's Happened Recently?
+12/3/2022,0,0,0,0,0,0,0,0,0
+12/4/2022,0,0,0,0,0,0,0,0,0
+12/5/2022,35,8,0.125,0.25331828,0.1603,analyst_upgrade,General,LOW,"China stocks advance as COVID restrictions ease, Morgan Stanley lifts outlook"
+12/6/2022,43,6,-0.05,0.252592295,0.1477,regulatory,General,LOW,"Apple, AMD confirm they’re among TSMC’s first Arizona customers, while Intel preps for return to cutting edge in 2023"
+12/7/2022,43,6,0.090134427,0.258369476,0.1486,regulatory,General,HIGH,"Meta Criticized For Providing Extra Protection To Certain Users, Twitter HQ Bedrooms Under Regulatory Scrutiny, Juul Settles Over 5,000 Lawsuits: Top Stories Wednesday, Dec. 07"
+12/8/2022,22,8,0.172506614,0.245378375,0.1482,earnings_beat,Services,NEUTRAL,Which Tech Stock Is Wall Street’s Best Pick Right Now?
+12/9/2022,25,8,0.026919192,0.263716549,0.1498,regulatory,General,HIGH,"Microsoft's Activision Deal Voted Down By FTC, SEC Guides Companies To Disclose Cryptocurrency Risks, Twitter Begins Reinstating Suspended Accounts: Top Stories Friday, Dec. 09"
+12/10/2022,0,0,0,0,0,0,0,0,0
+12/11/2022,0,0,0,0,0,0,0,0,0
+12/12/2022,16,8,0.153333333,0.345612377,0.1548,product_launch,General,HIGH,REFILE-UPDATE 1-India's Tata Group to open 100 exclusive Apple stores -report
+12/13/2022,27,8,-0.088888889,0.306422651,0.1561,regulatory,App_Store,LOW,Apple's Biggest Weakness Is Being Exposed
+12/14/2022,16,6,-0.035714286,0.296956211,0.1553,regulatory,General,LOW,Europe May Force Apple to Allow Other App Stores
+12/15/2022,21,2,-0.038888889,0.347252309,0.156,general,General,LOW,Influencers with Andy Serwer: Satjiv Chahil
+12/16/2022,22,6,0.071736111,0.484152973,0.1785,analyst_downgrade,General,LOW,Why Is This Analyst Bearish On Western Digital And Sees Downside?
+12/17/2022,0,0,0,0,0,0,0,0,0
+12/18/2022,0,0,0,0,0,0,0,0,0
+12/19/2022,23,8,0.050178571,0.358613342,0.1587,product_launch,General,NEUTRAL,Alphabet (GOOGL) Boosts Wear OS Platform With KoruLab Takeover
+12/20/2022,20,8,0.345454545,0.331635475,0.1558,product_launch,General,HIGH,Will Nvidia Be a Trillion-Dollar Stock by 2030?
+12/21/2022,24,6,0.205,0.410087079,0.1652,general,General,LOW,"Amid Weak Digital Ad Outlook, Apple, Walmart, Internet TV Are Still Bright Spots"
+12/22/2022,21,8,0.100048876,0.427620471,0.1677,product_launch,Vision_Pro,NEUTRAL,The hottest tech trends to watch in 2023
+12/23/2022,13,8,0.063636364,0.250011951,0.1522,regulatory,General,LOW,Meta Is Cheap for a Reason: Shareholders Aren't the Focus
+12/24/2022,0,0,0,0,0,0,0,0,0
+12/25/2022,0,0,0,0,0,0,0,0,0
+12/26/2022,0,0,0,0,0,0,0,0,0
+12/27/2022,27,6,-0.13,0.375971735,0.1688,regulatory,General,LOW,"Apple stock slumps toward lowest close in 18 months, worst yearly performance since 2008"
+12/28/2022,27,2,-0.103935185,0.350007266,0.1602,general,General,HIGH,"3 Things to Love About Adobe, Even Though Its Stock Is Down 40%"
+12/29/2022,29,5,0.050652357,0.408901304,0.1676,general,General,NEUTRAL,"Tech stock bounce part of ‘seasonal pattern’, investors pin hopes on January"
+12/30/2022,22,8,0.303636364,0.297430634,0.1609,earnings_beat,General,LOW,This Market-Beating Growth Stock Is Too Cheap to Ignore
+12/31/2022,0,0,0,0,0,0,0,0,0
+1/1/2023,0,0,0,0,0,0,0,0,0
+1/2/2023,0,0,0,0,0,0,0,0,0
+1/3/2023,40,2,0.080868467,0.292189747,0.151,general,General,HIGH,"The Zacks Analyst Blog Highlights Apple, Johnson &amp; Johnson, CSX, American International Group and CenterPoint Energy"
+1/4/2023,42,8,0.106984127,0.273399293,0.1505,supply_chain,General,LOW,"Down 30%, Apple Stock Is Still Risky"
+1/5/2023,25,8,0,0.280966312,0.1517,supply_chain,iPhone,HIGH,IPhone Shipments Take a Hit  but Analysts Are Still Upbeat on Apple
+1/6/2023,20,5,0.062318008,0.284633845,0.151,general,General,NEUTRAL,Stock market today: Dow scores weekly win as slowing wage growth eases Fed fears
+1/7/2023,0,0,0,0,0,0,0,0,0
+1/8/2023,0,0,0,0,0,0,0,0,0
+1/9/2023,33,6,0,0.284696907,0.1533,supply_chain,iPhone,NEUTRAL,iPhone exports from India surpass $2.5 billion despite Apple supply issues
+1/10/2023,34,8,0.176428571,0.274675697,0.1521,supply_chain,iPhone,HIGH,Why Qualcomm Stock Got Mashed on Monday
+1/11/2023,35,6,0.5,0.26610291,0.1503,regulatory,General,NEUTRAL,Apple promises to disclose more details about app removals
+1/12/2023,26,8,-0.018190236,0.262709856,0.1538,earnings_miss,General,HIGH,"World’s Biggest Chipmaker TSMC Tops Estimates, Bucking Trend as Industry Cools"
+1/13/2023,24,6,0.25,0.265571356,0.1508,regulatory,General,HIGH,Apple CEO Tim Cook Receives a 40% Pay Cut
+1/14/2023,0,0,0,0,0,0,0,0,0
+1/15/2023,0,0,0,0,0,0,0,0,0
+1/16/2023,0,0,0,0,0,0,0,0,0
+1/17/2023,39,6,0.105567034,0.263970703,0.1557,earnings_miss,General,LOW,S&amp;P 500 struggles for direction on Goldman Sachs-led slide
+1/18/2023,37,8,-0.011594203,0.264090002,0.1561,earnings_miss,General,NEUTRAL,"Big Tech braces for dismal profits, more job cuts"
+1/19/2023,11,6,0.023611111,0.26439029,0.1564,earnings_miss,General,HIGH,"Apple Will Struggle to Return to Growth as iPhone Demand Drops, Warns J.P. Morgan"
+1/20/2023,17,0,0.6,0.290438116,0.1546,general,General,HIGH,Weekly Roundup
+1/21/2023,0,0,0,0,0,0,0,0,0
+1/22/2023,0,0,0,0,0,0,0,0,0
+1/23/2023,28,6,0.045454545,0.283793002,0.156,regulatory,General,HIGH,Big Banks Are Coming After PayPal and Apple With Digital Wallet: WSJ
+1/24/2023,22,3,0.170677933,0.306572706,0.1578,general,General,NEUTRAL,Apple debuts programs highlighting data privacy and security
+1/25/2023,15,8,-0.125,0.268169641,0.1587,earnings_miss,General,HIGH,"Dow Jones Futures Fall 250 Points As Boeing, Microsoft Drop On Earnings; Tesla Earnings Due"
+1/26/2023,16,6,0.102988215,0.265868127,0.1587,earnings_miss,General,HIGH,Earnings Preview: Apple (AAPL) Q1 Earnings Expected to Decline
+1/27/2023,25,8,0.033333333,0.262019813,0.1585,earnings_miss,General,LOW,Dow Jones Reverses After Inflation Data; Intel Plunges 10% On Earnings
+1/28/2023,0,0,0,0,0,0,0,0,0
+1/29/2023,0,0,0,0,0,0,0,0,0
+1/30/2023,53,8,0,0.265267223,0.1598,earnings_miss,General,HIGH,"Apple Profit Could Fall on China Production, Demand Slowdown"
+1/31/2023,33,8,0.6,0.264090002,0.16,earnings_miss,General,HIGH,"Dow Jones Rises Ahead Of Fed Meeting; Caterpillar, Exxon, Pfizer, McDonald's Fall On Earnings"
+2/1/2023,35,8,0.152925408,0.26610291,0.1605,earnings_miss,General,HIGH,Apple earnings will be the latest sign the tech industry is coming back to Earth
+2/2/2023,59,7,0.023412698,0.266097695,0.1622,earnings_miss,General,HIGH,Apple (AAPL) Misses Q1 Earnings and Revenue Estimates
+2/3/2023,73,6,0.35625,0.26608932,0.1625,earnings_miss,General,LOW,Apple Stock Turns Higher As iPhone Outlook Offsets Rare Earnings Miss From China Disruptions
+2/4/2023,0,0,0,0,0,0,0,0,0
+2/5/2023,0,0,0,0,0,0,0,0,0
+2/6/2023,20,8,0.154192299,0.277190983,0.1645,earnings_miss,General,HIGH,"Amazon, Alphabet, Apple, Meta and Microsoft are part of Zacks Earnings Preview"
+2/7/2023,18,8,0.240277778,0.274550676,0.1645,earnings_miss,General,LOW,The 3 Best Forever Stocks to Buy for February 2023
+2/8/2023,24,8,0.245,0.263929874,0.1638,earnings_miss,General,LOW,Apple Revenue Declines for the First Time Since 2019. Time to Sell?
+2/9/2023,13,8,-0.069642857,0.27474007,0.1655,earnings_miss,iPhone,NEUTRAL,Smartphone Sales Are Peaking. Here's Why Apple Doesn't Really Care
+2/10/2023,21,8,0.073015873,0.277365446,0.1585,general,General,HIGH,3 Metaverse Stocks to Buy Right Now
+2/11/2023,0,0,0,0,0,0,0,0,0
+2/12/2023,0,0,0,0,0,0,0,0,0
+2/13/2023,14,8,0.174375,0.26570791,0.1609,supply_chain,General,NEUTRAL,"Apple Supplier Salcomp To Expand Workforce In India, Reduce Dependence On China"
+2/14/2023,23,8,0.139880952,0.26570791,0.1659,earnings_miss,General,HIGH,"Why Apple, LVMH, and PepsiCo Are No-Brainer Buys Right Now"
+2/15/2023,26,8,0.201666667,0.275752395,0.1643,earnings_beat,General,LOW,Stock market today: Dow ekes out win after cutting losses as tech reigns supreme
+2/16/2023,18,6,0.173653199,0.274550676,0.1677,earnings_miss,General,LOW,"Streaming wars: Key takeaways from Netflix, Apple, Paramount and Disney earnings"
+2/17/2023,16,0,0,0.274217248,0.1603,general,General,LOW,Interview With David Rolfe of Wedgewood Partners
+2/18/2023,0,0,0,0,0,0,0,0,0
+2/19/2023,0,0,0,0,0,0,0,0,0
+2/20/2023,0,0,0,0,0,0,0,0,0
+2/21/2023,13,6,0.198922668,0.265985101,0.1681,earnings_miss,Services,NEUTRAL,"Apple TV+ reports stalling U.S. adoption, subscriptions"
+2/22/2023,16,6,0.10177139,0.265349805,0.1684,earnings_miss,Services,NEUTRAL,Apple TV+ growth has 'flat-lined' as users say service lacks value: UBS
+2/23/2023,18,2,0.071428571,0.27874279,0.1627,general,General,LOW,"Have $1,000? 2 Warren Buffett Stocks to Buy"
+2/24/2023,19,5,0.136363636,0.277365446,0.1628,general,General,HIGH,"This Supercharged Nasdaq Stock Is Up 35% in 2023, But Is It a Buy?"
+2/25/2023,0,0,0,0,0,0,0,0,0
+2/26/2023,0,0,0,0,0,0,0,0,0
+2/27/2023,21,6,0.032966024,0.277365446,0.1637,general,General,NEUTRAL,Why Jeff Bezos and other billionaires want NFL teams
+2/28/2023,23,8,0.004318182,0.274550676,0.1664,supply_chain,iPhone,LOW,Apple supplier Foxlink unlikely to resume full India operations for two months-source
+3/1/2023,17,8,0.073674242,0.265985101,0.1659,supply_chain,iPhone,NEUTRAL,QCOM Notches Up Despite Potentially Losing Apple’s Business
+3/2/2023,0,0,0,0,0,0,0,0,0
+3/3/2023,0,0,0,0,0,0,0,0,0
+3/4/2023,0,0,0,0,0,0,0,0,0
+3/5/2023,0,0,0,0,0,0,0,0,0
+3/6/2023,0,0,0,0,0,0,0,0,0
+3/7/2023,0,0,0,0,0,0,0,0,0
+3/8/2023,0,0,0,0,0,0,0,0,0
+3/9/2023,0,0,0,0,0,0,0,0,0
+3/10/2023,0,0,0,0,0,0,0,0,0
+3/11/2023,0,0,0,0,0,0,0,0,0
+3/12/2023,0,0,0,0,0,0,0,0,0
+3/13/2023,0,0,0,0,0,0,0,0,0
+3/14/2023,0,0,0,0,0,0,0,0,0
+3/15/2023,0,0,0,0,0,0,0,0,0
+3/16/2023,0,0,0,0,0,0,0,0,0
+3/17/2023,0,0,0,0,0,0,0,0,0
+3/18/2023,0,0,0,0,0,0,0,0,0
+3/19/2023,0,0,0,0,0,0,0,0,0
+3/20/2023,0,0,0,0,0,0,0,0,0
+3/21/2023,0,0,0,0,0,0,0,0,0
+3/22/2023,0,0,0,0,0,0,0,0,0
+3/23/2023,0,0,0,0,0,0,0,0,0
+3/24/2023,0,0,0,0,0,0,0,0,0
+3/25/2023,0,0,0,0,0,0,0,0,0
+3/26/2023,0,0,0,0,0,0,0,0,0
+3/27/2023,0,0,0,0,0,0,0,0,0
+3/28/2023,0,0,0,0,0,0,0,0,0
+3/29/2023,0,0,0,0,0,0,0,0,0
+3/30/2023,18,8,0.063636364,0.265039057,0.1676,legal,General,HIGH,Apple wins U.S. appeal over patents in $502 million VirnetX verdict
+3/31/2023,28,8,0.05,0.265039057,0.1683,legal,General,HIGH,Apple wins reversal of $502 mln VirnetX patent infringement verdict
+4/1/2023,0,0,0,0,0,0,0,0,0
+4/2/2023,0,0,0,0,0,0,0,0,0
+4/3/2023,22,8,0.004747475,0.262837917,0.1718,analyst_downgrade,General,NEUTRAL,Google needs a 'stronger leader': Analyst
+4/4/2023,20,6.5,0.110606061,0.26371488,0.1694,legal,General,LOW,Apple Music trademark application blocked by U.S. appeals court
+4/5/2023,32,8,0.119162826,0.265039057,0.1728,analyst_downgrade,General,HIGH,Analysts anticipate Apple to be impacted by consumer slowdown in second-half of 2023
+4/6/2023,25,8,-0.016233766,0.268903315,0.1704,analyst_upgrade,General,LOW,"A.I. the 'soup du jour' amid Meta's 'year of efficiency', analyst says"
+4/7/2023,0,0,0,0,0,0,0,0,0
+4/8/2023,0,0,0,0,0,0,0,0,0
+4/9/2023,0,0,0,0,0,0,0,0,0
+4/10/2023,32,8,-0.083333333,0.265552908,0.1728,earnings_miss,General,LOW,Stick With Apple Despite Its Checkered News and Checkered Outlook
+4/11/2023,22,2,0.0375,0.268903315,0.1712,supply_chain,Services,NEUTRAL,"Apple says issues with Music app resolved, other services back up"
+4/12/2023,22,6,0.2,0.266501218,0.175,analyst_downgrade,iPhone,HIGH,"Apple iPhone Design Change Will Hurt Cirrus Logic, Says Analyst"
+4/13/2023,30,8,0.15,0.265552908,0.1719,analyst_upgrade,General,NEUTRAL,"2 Growth Stocks With 113% and 243% Upside to Buy Now, According to Wall Street"
+4/14/2023,15,8,0.216121701,0.265039057,0.1754,analyst_downgrade,General,NEUTRAL,Why Apple Inc. (NASDAQ:AAPL) Could Be Worth Watching
+4/15/2023,0,0,0,0,0,0,0,0,0
+4/16/2023,0,0,0,0,0,0,0,0,0
+4/17/2023,43,8,0.079889807,0.268903315,0.173,general,General,HIGH,The 7 Best Growth Stocks to Buy in the Gaming Sector
+4/18/2023,37,6,0.141003788,0.269224077,0.1731,general,General,HIGH,TIMELINE-From iPhone 3G to first retail store: Apple's 15-year journey in India
+4/19/2023,28,8,0.140669856,0.268903315,0.1746,legal,General,LOW,"Meta Prepares For Further Job Cuts, Google To Allow Developers To Use Alternative Payment Options, Intel Ditches Production Of Bitcoin Mining Chip: Today's Top Stories"
+4/20/2023,19,8,0,0.264507949,0.1744,legal,General,LOW,"When Apple Comes Calling, ‘It’s the Kiss of Death’"
+4/21/2023,21,2,0.025,0.268903315,0.174,general,General,NEUTRAL,Are There Rough Waters Ahead On Tech Earnings Calendar?
+4/22/2023,0,0,0,0,0,0,0,0,0
+4/23/2023,0,0,0,0,0,0,0,0,0
+4/24/2023,17,6,0.129545455,0.265039057,0.1788,analyst_downgrade,iPhone,LOW,Will Apple (AAPL) be Able to Bounce Back?
+4/25/2023,19,6,0.207638889,0.265039057,0.1791,analyst_downgrade,General,NEUTRAL,Here’s Why Polen Global Growth Strategy Sold Apple (AAPL)
+4/26/2023,15,6,0.151146384,0.264756352,0.1927,earnings_miss,Services,HIGH,Spotify Is Still Struggling to Monetize The Music Streaming Business Despite Playing The Right Notes
+4/27/2023,14,8,0.078186275,0.265009612,0.1935,earnings_miss,General,HIGH,15 Largest PC Companies in the World
+4/28/2023,14,6,0.065,0.265009612,0.1935,earnings_miss,iPhone,NEUTRAL,Apple's Magnificent Growth in This Market Could Be a Game Changer in the Long Run
+4/29/2023,0,0,0,0,0,0,0,0,0
+4/30/2023,0,0,0,0,0,0,0,0,0
+5/1/2023,24,6,0.055331089,0.265009612,0.1946,earnings_miss,General,LOW,"Amazon, Alphabet, Apple, Meta and Microsoft are part of Zacks Earnings Preview"
+5/2/2023,23,6,-0.1,0.264756352,0.1953,earnings_miss,General,LOW,"Apple Earnings May Fall 10% As iPad, Mac Sales Drag"
+5/3/2023,30,5,0.100399178,0.269649327,0.196,earnings_miss,General,LOW,Apple Q2 earnings: What to expect
+5/4/2023,54,4.8,0.120964251,0.267795593,0.1961,earnings_miss,General,HIGH,Trending tickers: Apple | Shell | PacWest | Next
+5/5/2023,68,8,0.15002405,0.267795593,0.1867,earnings_beat,iPhone,NEUTRAL,"Apple stock surges on earnings beat, strengthened iPhone sales"
+5/6/2023,0,0,0,0,0,0,0,0,0
+5/7/2023,0,0,0,0,0,0,0,0,0
+5/8/2023,19,8,0.028055556,0.267795593,0.198,earnings_miss,General,LOW,US STOCKS-Wall Street subdued on bleak earnings ahead of inflation data
+5/9/2023,19,6,0.165537919,0.265009612,0.1975,earnings_miss,General,HIGH,What Makes Apple (AAPL) the Best in the Mobile Technology Industry?
+5/10/2023,19,8,0.177230378,0.263889134,0.1875,earnings_beat,General,NEUTRAL,3 Chip Stocks That Crushed Earnings and Are Just Getting Started
+5/11/2023,20,3,0.2,0.26436764,0.1839,product_launch,General,LOW,Apple has its eyes on the prize
+5/12/2023,16,5,0.175916667,0.265009612,0.1987,earnings_miss,General,NEUTRAL,3 Technology Stocks That Pay Strong Dividends
+5/13/2023,0,0,0,0,0,0,0,0,0
+5/14/2023,0,0,0,0,0,0,0,0,0
+5/15/2023,14,8,0.252272727,0.267795593,0.1854,product_launch,Vision_Pro,NEUTRAL,Apple Takes New Approach With Mixed-Reality Headset
+5/16/2023,14,8,0.172139498,0.269108891,0.186,product_launch,General,NEUTRAL,"Apple introduces new features for cognitive accessibility, along with Live Speech, Personal Voice, and Point and Speak in Magnifier"
+5/17/2023,24,6,0.107928241,0.26436764,0.186,supply_chain,iPhone,HIGH,"The Great Wall of Apple: Despite Production Shifts, China Remains iPhone Maker's Preferred Partner"
+5/18/2023,23,8,0.028125,0.265009612,0.1861,supply_chain,Vision_Pro,NEUTRAL,Apple slashes sales estimates of its headset - Bloomberg News
+5/19/2023,25,8,0.1875,0.265009612,0.1864,product_launch,Services,LOW,Apple Is Reaching Deeper Into Your Pocket. Why PayPal and Other Fintechs Should Be Scared.
+5/20/2023,0,0,0,0,0,0,0,0,0
+5/21/2023,0,0,0,0,0,0,0,0,0
+5/22/2023,26,8,0.284090909,0.265749305,0.1951,analyst_upgrade,General,LOW,"Apple, DraftKings, Nike: Top movers"
+5/23/2023,8,6,0.050505051,0.265502006,0.1835,analyst_downgrade,General,NEUTRAL,4 big analyst cuts: Apple loses buy rating on slack iPhone demand
+5/24/2023,4,8,0.128333333,0.265502006,0.1831,general,General,HIGH,Billionaire Cliff Asness 2023 Portfolio: Top 10 Blue Chip Value Stocks
+5/25/2023,7,6,0.172282197,0.265749305,0.1835,general,General,HIGH,3 Long-Term Stocks That You Can Hold for the Long Haul
+5/26/2023,4,2,0.115997024,0.265749305,0.1839,general,General,HIGH,Louis Navellier’s 2023 Portfolio: 15 Growth Stocks to Watch
+5/27/2023,0,0,0,0,0,0,0,0,0
+5/28/2023,0,0,0,0,0,0,0,0,0
+5/29/2023,0,0,0,0,0,0,0,0,0
+5/30/2023,10,2,-0.152777778,0.265749305,0.1853,general,General,NEUTRAL,Dow Jones Today: Index Down on Debt Ceiling Jitters
+5/31/2023,23,8,0.029575163,0.265134275,0.1983,analyst_upgrade,General,HIGH,"Apple Supplier Foxconn Rides the AI Wave, Doubles Down on Server Business Amid ChatGPT Frenzy"
+6/1/2023,34,6,0.136426768,0.265749305,0.1897,earnings_miss,General,NEUTRAL,Invest Like Warren Buffett With These 3 Stocks
+6/2/2023,46,6,0.29368529,0.265134275,0.192,ceo_statement,General,LOW,"Elon Musk Praises Quality of Made in China Teslas, Exxon Eyes Double Output With New Fracking Tech, Netflix Shareholders Vote Against Fat Exec. Pay: Today's Top Stories"
+6/3/2023,0,0,0,0,0,0,0,0,0
+6/4/2023,0,0,0,0,0,0,0,0,0
+6/5/2023,89,8,-0.021837646,0.265749305,0.1891,supply_chain,iPhone,NEUTRAL,Foxconn's May sales drop 9.5% y/y on smartphone weakness
+6/6/2023,79,6,0.363724747,0.265040636,0.1934,ceo_statement,General,LOW,Apple CEO Tim Cook Talks About the 'Great Promise' of a Popular New Technology
+6/7/2023,28,8,0.068181818,0.265502006,0.2011,analyst_upgrade,Vision_Pro,HIGH,Apple should buy Disney to grow the Vision Pro: Analyst
+6/8/2023,32,8,0.041698232,0.265040636,0.1921,earnings_miss,General,NEUTRAL,7 Tech Stocks to Avoid Like the Plague in June
+6/9/2023,19,8,0.140972222,0.265749305,0.1943,ceo_statement,General,HIGH,What Made Silver Ring Value Partners Exit its Apple (AAPL) Put Options Position?
+6/10/2023,0,0,0,0,0,0,0,0,0
+6/11/2023,0,0,0,0,0,0,0,0,0
+6/12/2023,15,6.5,0.130189394,0.265502006,0.1916,supply_chain,General,NEUTRAL,"Apple's supply chain in China evolves as Foxconn hires, Compal invests in Vietnam and MacBook production relocates to Thailand"
+6/13/2023,40,2,0.032222222,0.266033173,0.1917,general,General,NEUTRAL,"Dow Jones Today: Inflation Down, Index Up"
+6/14/2023,31,8,0.033333333,0.266033173,0.1942,regulatory,App_Store,HIGH,Elon Musk and Jack Dorsey Send a Dire Warning to Apple
+6/15/2023,15,6,0.07755102,0.265385717,0.1944,regulatory,App_Store,LOW,Musk takes a shot at Apple’s payment monopoly
+6/16/2023,15,8,0.262085137,0.266033173,0.1942,product_launch,General,NEUTRAL,Top 7 Long-Term Investment Stocks for Future Millionaires
+6/17/2023,0,0,0,0,0,0,0,0,0
+6/18/2023,0,0,0,0,0,0,0,0,0
+6/19/2023,0,0,0,0,0,0,0,0,0
+6/20/2023,19,9,0.118055556,0.265753865,0.2044,earnings_beat,Services,LOW,7 Resilient Blue-Chip Stocks With Strong Growth Potential
+6/21/2023,20,8,0.170075758,0.268270642,0.1968,product_launch,General,HIGH,Apple is plotting the death of the password
+6/22/2023,11,4,0.108492823,0.265364319,0.197,regulatory,General,NEUTRAL,"Intel Voices Plans To Restructure Manufacturing Business, Bumble's BFF App, Spirit AeroSystems To Stop Work At Kansas Plant Amid Workers Strike: Today's Top Stories"
+6/23/2023,20,8,0.057575758,0.266033173,0.1972,product_launch,Vision_Pro,LOW,1 Winner and 1 Loser From Apple's New Headset Rollout
+6/24/2023,0,0,0,0,0,0,0,0,0
+6/25/2023,0,0,0,0,0,0,0,0,0
+6/26/2023,20,8,0.160405071,0.265753865,0.1986,regulatory,App_Store,HIGH,Damus Founder Now Expects Deplatforming From Apple App Store
+6/27/2023,15,6,0.102651515,0.266637266,0.1991,regulatory,General,HIGH,Jack Dorsey Questions Apple's Tim Cook Over Bitcoin Support as Damus Deplatforming Looms
+6/28/2023,25,6,0.095454545,0.267246068,0.1996,regulatory,General,NEUTRAL,"Stocks to Watch Wednesday: Nvidia, General Mills, AMD, Intel"
+6/29/2023,30,8,0.233736559,0.265753865,0.2079,earnings_beat,General,HIGH,These 3 Companies Are Cash-Generating Machines
+6/30/2023,61,6,0.013888889,0.270865023,0.2005,analyst_upgrade,General,LOW,Dow Jones Futures: Inflation Report Due As Fed Rate Hike Odds Rise; Citi Sees 27% Apple Upside
+7/1/2023,0,0,0,0,0,0,0,0,0
+7/2/2023,0,0,0,0,0,0,0,0,0
+7/3/2023,29,7,0.083819444,0.266033173,0.2091,earnings_beat,General,LOW,U.S. stocks are muted; Nasdaq rises on Tesla's deliveries beat
+7/4/2023,0,0,0,0,0,0,0,0,0
+7/5/2023,22,8,0.094769585,0.267246068,0.2022,regulatory,General,NEUTRAL,Stock market today: Dow slips as Fed minutes show more hikes ahead; Meta jumps
+7/6/2023,12,8,0.217888064,0.266033173,0.2024,analyst_upgrade,General,LOW,AI Seen Fueling Microsoft to $3 Trillion Value in Morgan Stanley Model
+7/7/2023,19,8,0.080607413,0.266637266,0.2022,product_launch,Vision_Pro,LOW,"Apple Plans a Slow, Appointment-Only Rollout of Its $3,500 Vision Pro"
+7/8/2023,0,0,0,0,0,0,0,0,0
+7/9/2023,0,0,0,0,0,0,0,0,0
+7/10/2023,19,8,0.215178571,0.266033173,0.204,regulatory,General,NEUTRAL,Market heavyweights dip ahead of Nasdaq 100 rebalance
+7/11/2023,28,6,0.35,0.266033173,0.2044,regulatory,General,HIGH,GM is ditching Apple CarPlay &amp; dealers are reportedly concerned
+7/12/2023,10,6,0.176289683,0.266033173,0.2044,regulatory,General,NEUTRAL,RPT-EXPLAINER-What is Nasdaq's special rebalancing and its impact?
+7/13/2023,16,8,0.176767677,0.264573812,0.2071,supply_chain,General,NEUTRAL,13 Best Most Active Stocks to Buy Now
+7/14/2023,18,6,0.168362193,0.264573812,0.2071,supply_chain,Vision_Pro,HIGH,3 Struggling Stocks to Sell in July Before They Implode
+7/15/2023,0,0,0,0,0,0,0,0,0
+7/16/2023,0,0,0,0,0,0,0,0,0
+7/17/2023,23,6,0.033505334,0.264573812,0.2066,regulatory,General,NEUTRAL,Meta Faces Weight Cut in Nasdaq 100’s Special Rebalance
+7/18/2023,17,6,0.156764069,0.264573812,0.2091,supply_chain,iPhone,HIGH,"Foxconn Invests in India, Procures $33M Equipment from Apple to Boost Local Operations"
+7/19/2023,22,0,0.106089744,0.268538713,0.2079,general,General,LOW,Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know
+7/20/2023,18,8,0,0.265095621,0.2267,earnings_miss,General,LOW,Nvidia and Intel Drop After Taiwan Semi’s Earnings. Why AI Isn’t Helping All Chip Stocks.
+7/21/2023,17,6,0.011437685,0.264573812,0.2082,regulatory,General,NEUTRAL,"Meta Exec Nick Clegg talks White House AI meeting, regulation"
+7/22/2023,0,0,0,0,0,0,0,0,0
+7/23/2023,0,0,0,0,0,0,0,0,0
+7/24/2023,22,3,0.040925926,0.264573812,0.2279,earnings_miss,General,NEUTRAL,Earnings Are the Tech-Stock Rally’s Next Big Test
+7/25/2023,21,8,0,0.265095621,0.2238,legal,App_Store,NEUTRAL,Apple Faces a $1 Billion UK Lawsuit Over App Store Fees
+7/26/2023,21,8,0.177066966,0.264573812,0.2339,earnings_beat,General,LOW,"Meta stock gains after earnings, guidance from Facebook parent top expectations"
+7/27/2023,17,8,0.132539683,0.264573812,0.2343,earnings_beat,General,HIGH,Earnings Season: 3 Upcoming Reports Investors Can't Ignore
+7/28/2023,28,2,-0.017727273,0.268538713,0.2308,earnings_miss,General,NEUTRAL,"Chip stocks, Amazon &amp; Apple earnings, July jobs report: What to watch"
+7/29/2023,0,0,0,0,0,0,0,0,0
+7/30/2023,0,0,0,0,0,0,0,0,0
+7/31/2023,36,0,0.106982872,0.264573812,0.2314,earnings_miss,General,NEUTRAL,"AMD earnings, Uber Technologies, Pfizer reports: 3 things to watch"
+8/1/2023,17,8.5,0.155140693,0.264573812,0.2366,earnings_beat,Services,LOW,Amazon &amp; Apple Earnings: What to Expect
+8/2/2023,18,8,0.06863008,0.264573812,0.237,earnings_beat,General,LOW,"Apple, Amazon to Report Earnings: ETFs in Spotlight"
+8/3/2023,44,8,0.05,0.268834382,0.2383,earnings_beat,Services,LOW,Apple Earnings Top Street As Services Revenues Offset iPhone Slump
+8/4/2023,44,8,0.132638889,0.268834382,0.2387,earnings_beat,General,LOW,Apple's Cautiously Navigating Through No Man's Land Amid A Maturing Smartphone Market And Upcoming AI Innovations
+8/5/2023,0,0,0,0,0,0,0,0,0
+8/6/2023,0,0,0,0,0,0,0,0,0
+8/7/2023,28,8,0.297826087,0.268318892,0.24,earnings_beat,General,HIGH,Tech earnings: What investors have learned so far
+8/8/2023,14,8,0.5,0.264573812,0.235,earnings_miss,General,LOW,"No longer a $3 trillion company, Apple shares keep sliding week after fiscal Q3 earnings"
+8/9/2023,33,6.5,0.056182796,0.263542414,0.2368,regulatory,General,NEUTRAL,Apple Can Keep App Store Rules for Now as Top Court Spurns Epic
+8/10/2023,14,8,-0.005054563,0.263542414,0.2221,general,General,NEUTRAL,10 Energy Stocks with Insider Buying
+8/11/2023,21,6,0.020833333,0.263542414,0.2377,regulatory,General,HIGH,Russian ministry bans employees from using iPhones for work - Ifax
+8/12/2023,0,0,0,0,0,0,0,0,0
+8/13/2023,0,0,0,0,0,0,0,0,0
+8/14/2023,24,2,0.25,0.274131715,0.2252,general,General,LOW,iPhone Maker Foxconn Beats Expectations. Apple Stock Edges Higher.
+8/15/2023,20,8,0,0.260457933,0.2385,regulatory,General,NEUTRAL,A looming ESG crackdown
+8/16/2023,14,5,0.082869458,0.272837102,0.2263,general,General,LOW,7 Stocks to Buy as Back to School Spending Increases
+8/17/2023,19,2,0.116666667,0.274131715,0.227,general,General,NEUTRAL,Lowest Smartphone Sales in a Decade Could Give Apple Top Unit Sales for First Time
+8/18/2023,14,6,0.309659091,0.274931163,0.2275,general,General,HIGH,Top 20 Spotify Users by Country
+8/19/2023,0,0,0,0,0,0,0,0,0
+8/20/2023,0,0,0,0,0,0,0,0,0
+8/21/2023,21,3,0.177922078,0.278050333,0.2294,general,General,HIGH,20 Cities With The Most Hispanics
+8/22/2023,20,0,0.150420875,0.27402246,0.2291,general,General,HIGH,Long-Term Returns of Carl Icahn’s 40 Activist Targets
+8/23/2023,18,6,0.017647059,0.264458537,0.2434,regulatory,General,LOW,Hollywood studios publish proposal to striking writers as union slams deal
+8/24/2023,25,6,0.229010204,0.263542414,0.2437,regulatory,General,HIGH,Apple now supporting California's 'Right to Repair' bill
+8/25/2023,12,8,-0.072916667,0.264325798,0.2443,regulatory,General,HIGH,Big Tech companies brace for impact of EU regulations
+8/26/2023,0,0,0,0,0,0,0,0,0
+8/27/2023,0,0,0,0,0,0,0,0,0
+8/28/2023,21,8,0.083733766,0.283168018,0.2489,regulatory,General,HIGH,Nvidia stock surge faces not-so-subtle risk from China
+8/29/2023,18,6,0.069669913,0.263890356,0.2461,regulatory,General,HIGH,Hollywood strikes could have $5B+ impact on economy: Strategist
+8/30/2023,26,4,0.234978355,0.26463908,0.2467,regulatory,General,NEUTRAL,"Economy: We have a ‘goldilocks scenario,’ strategist says"
+8/31/2023,23,8,0.167955556,0.283802956,0.2348,general,General,HIGH,'Magnificent Seven' investing playbook: Meta stock's path to $350 probably runs through AI
+9/1/2023,22,0,0.250795655,0.275559604,0.2338,general,General,NEUTRAL,100 Most Popular Songs of All Time on Spotify
+9/2/2023,0,0,0,0,0,0,0,0,0
+9/3/2023,0,0,0,0,0,0,0,0,0
+9/4/2023,0,0,0,0,0,0,0,0,0
+9/5/2023,23,5,0.010229277,0.278175175,0.2522,regulatory,General,LOW,Big Tech preparing for EU's Digital Markets Act
+9/6/2023,51,6,0.5,0.278175175,0.2526,regulatory,General,LOW,Apple slides on report China bans government staff from using iPhones
+9/7/2023,67,6,0.031960979,0.264325798,0.2504,regulatory,General,NEUTRAL,China moves to widen state employee iPhone curbs - sources
+9/8/2023,92,8,0.015151515,0.272000104,0.2394,analyst_upgrade,General,HIGH,Tech stock valuations creating 'significant divergence' in S&amp;P 500: Strategist
+9/9/2023,0,0,0,0,0,0,0,0,0
+9/10/2023,0,0,0,0,0,0,0,0,0
+9/11/2023,73,8,0.099770022,0.285257012,0.2433,analyst_upgrade,General,LOW,US STOCKS-Nasdaq ends sharply higher as Tesla soars on AI optimism
+9/12/2023,85,8,0.139393939,0.285257012,0.2377,product_launch,General,LOW,Our Take on Apple's Wonderlust Event
+9/13/2023,67,6,0.139864025,0.264001817,0.2402,analyst_upgrade,General,HIGH,My Top 3 ‘Total Return’ Picks for September 2023
+9/14/2023,47,8,0.139413876,0.272877872,0.2358,product_launch,iPhone,NEUTRAL,"iPhone 15: Release date, price specs and features revealed"
+9/15/2023,37,8,0.29375,0.264830351,0.2413,analyst_upgrade,General,HIGH,"1 Stock-Split AI Growth Stock With More Upside Than Apple or Tesla to Buy Now, According to Wall Street"
+9/16/2023,0,0,0,0,0,0,0,0,0
+9/17/2023,0,0,0,0,0,0,0,0,0
+9/18/2023,5,8,0.048891869,0.265024126,0.2361,product_launch,General,HIGH,"Arm's grand debut, glee for Tesla's dojo, Oracle's dour news: Weekly tech roundup"
+9/19/2023,0,0,0,0,0,0,0,0,0
+9/20/2023,0,0,0,0,0,0,0,0,0
+9/21/2023,0,0,0,0,0,0,0,0,0
+9/22/2023,0,0,0,0,0,0,0,0,0
+9/23/2023,0,0,0,0,0,0,0,0,0
+9/24/2023,0,0,0,0,0,0,0,0,0
+9/25/2023,0,0,0,0,0,0,0,0,0
+9/26/2023,0,0,0,0,0,0,0,0,0
+9/27/2023,0,0,0,0,0,0,0,0,0
+9/28/2023,0,0,0,0,0,0,0,0,0
+9/29/2023,0,0,0,0,0,0,0,0,0
+9/30/2023,0,0,0,0,0,0,0,0,0
+10/1/2023,0,0,0,0,0,0,0,0,0
+10/2/2023,0,0,0,0,0,0,0,0,0
+10/3/2023,0,0,0,0,0,0,0,0,0
+10/4/2023,0,0,0,0,0,0,0,0,0
+10/5/2023,0,0,0,0,0,0,0,0,0
+10/6/2023,14,8,0.159914361,0.260026872,0.2408,product_launch,General,HIGH,Alphabet (GOOGL) Boosts Its Smartphone Offerings With Pixel 8
+10/7/2023,0,0,0,0,0,0,0,0,0
+10/8/2023,0,0,0,0,0,0,0,0,0
+10/9/2023,23,8,0.156473214,0.262298793,0.2426,product_launch,General,NEUTRAL,Apple (AAPL) Expands Apple TV+ Portfolio With World War II Drama
+10/10/2023,21,8,0.051751208,0.261769027,0.2417,analyst_downgrade,General,HIGH,Corning slashed at JPMorgan on tepid recovery: 4 big analyst cuts
+10/11/2023,23,8,0.0972419,0.270282388,0.2459,legal,General,HIGH,Buyouts and Beyond: 7 Stocks Whose Only Hope Is Acquisition
+10/12/2023,13,6.5,0.033901515,0.279817313,0.2443,regulatory,General,LOW,UPDATE 1-Australia unveils draft law to regulate digital payment providers
+10/13/2023,23,4,0.296732955,0.262025893,0.2444,product_launch,General,NEUTRAL,Apple (AAPL) Unveils Trailer of For All Mankind Season 4
+10/14/2023,0,0,0,0,0,0,0,0,0
+10/15/2023,0,0,0,0,0,0,0,0,0
+10/16/2023,27,6,0.045454545,0.280090213,0.2463,general,General,LOW,Microsoft Gets a Lift as Apple iPhone Sales Scrutinized
+10/17/2023,18,8,0.097159091,0.261496127,0.2461,product_launch,General,LOW,Apple to offer USB-C equipped Apple Pencil with new pricing
+10/18/2023,15,8,0.035781926,0.268690765,0.248,product_launch,General,NEUTRAL,7 AI Stocks That Will Change the World (and Create Many Millionaires)
+10/19/2023,26,8,-0.431111111,0.276674211,0.249,earnings_miss,General,LOW,Tesla Stock Had a Horrible Day. Here’s What Comes Next.
+10/20/2023,23,8,0.190257773,0.270642787,0.2493,product_launch,General,NEUTRAL,"Apple bets on theater push, starting with Scorsese film"
+10/21/2023,0,0,0,0,0,0,0,0,0
+10/22/2023,0,0,0,0,0,0,0,0,0
+10/23/2023,34,8,0.133333333,0.286718339,0.2539,product_launch,General,NEUTRAL,Garmin (GRMN) Bolsters Smartwatch Offerings With ECG App
+10/24/2023,33,8,0.012455726,0.267331958,0.2506,product_launch,Mac,LOW,UPDATE 1-Apple to hold special event on Oct. 30 dubbed 'Scary Fast'
+10/25/2023,27,8,0.104040404,0.265628606,0.2507,product_launch,Vision_Pro,LOW,Apple 'Scary Fast' event preview: Everything we know so far
+10/26/2023,28,6,0.045902015,0.280090213,0.2505,regulatory,General,HIGH,RPT-NEWSMAKER-Foxconn founder Terry Gou lies low in Taiwan election as China tax probe reverberates
+10/27/2023,32,9,0.103240741,0.262025893,0.2518,legal,General,HIGH,Column: A big victory for an Orange County entrepreneur in his legal fight against Apple
+10/28/2023,0,0,0,0,0,0,0,0,0
+10/29/2023,0,0,0,0,0,0,0,0,0
+10/30/2023,49,8,0.155329612,0.317593545,0.2655,general,General,NEUTRAL,David Tepper Latest News and Portfolio Changes
+10/31/2023,41,8,0.312047898,0.279172271,0.2679,product_launch,Mac,HIGH,"Apple unveils the new MacBook Pro featuring the M3 family of chips, making the world’s best pro laptop even better"
+11/1/2023,37,8,0.248809524,0.265535802,0.2661,product_launch,Vision_Pro,HIGH,The 7 Best Cathie Wood Stocks to Buy Now: November Edition
+11/2/2023,51,8,0.216606061,0.266874343,0.2664,product_launch,General,LOW,Apple's Loaded Product Lineup Headed Into the Holidays Is Good News for Investors
+11/3/2023,65,6,0.039569078,0.315999985,0.2708,earnings_miss,General,HIGH,Trending tickers: Apple | Maersk | Palantir | Currys
+11/4/2023,0,0,0,0,0,0,0,0,0
+11/5/2023,0,0,0,0,0,0,0,0,0
+11/6/2023,29,6,0.15478355,0.301873922,0.2763,product_launch,General,HIGH,Apple MacBook Pro 14-inch review: Huge amounts of power at a pro price
+11/7/2023,24,2,0.127272727,0.336567968,0.2734,general,General,HIGH,Apple user discovers genius (and simple) hack for this key product
+11/8/2023,30,0,-0.25,0.350531429,0.2763,general,General,NEUTRAL,"
+Catherine Brock  |  Nov 8, 2023
+"
+11/9/2023,35,8,0.042654809,0.29938668,0.2705,earnings_miss,General,HIGH,Market Today: Tech Stocks Under Pressure Amid Mixed Earnings and Fed Remarks
+11/10/2023,28,6,0.224074074,0.29970327,0.2742,legal,General,LOW,"Apple to pay $25 million to settle allegations of discriminatory hiring practices in 2018, 2019"
+11/11/2023,0,0,0,0,0,0,0,0,0
+11/12/2023,0,0,0,0,0,0,0,0,0
+11/13/2023,26,8,0.105004937,0.340790361,0.2774,general,General,HIGH,Edward Norton explains why he thinks traditional TV is dead
+11/14/2023,42,8,0.166666667,0.321240008,0.2734,general,General,NEUTRAL,"The S&amp;P 500 Is More Concentrated Than Ever, and That's Historically Bad News for Wall Street"
+11/15/2023,29,8,0.085883117,0.334715992,0.275,regulatory,General,HIGH,UPDATE 1-US lawmakers question Apple over Jon Stewart's China content
+11/16/2023,26,6,0.206200898,0.273633242,0.275,product_launch,General,NEUTRAL,Users of iPhones can now check bank balance from Wallet app
+11/17/2023,30,7,0.136587302,0.267895937,0.2618,analyst_upgrade,General,HIGH,Here is What to Know Beyond Why Apple Inc. (AAPL) is a Trending Stock
+11/18/2023,0,0,0,0,0,0,0,0,0
+11/19/2023,0,0,0,0,0,0,0,0,0
+11/20/2023,19,1,0.201010101,0.265091509,0.2584,general,General,NEUTRAL,Billionaire Jim Simons’ Top 12 High-Dividend Stocks
+11/21/2023,31,6,0.190351216,0.260248125,0.2613,product_launch,General,NEUTRAL,"Sonos Readies $400-Plus Headphones to Rival Apple and Bose, TV Set-Top Box"
+11/22/2023,16,4,0.119507576,0.261779159,0.2621,product_launch,General,LOW,Disney: Will Thanksgiving reverse box office slump ? Can Iger 'strengthen' studio output'?
+11/23/2023,0,0,0,0,0,0,0,0,0
+11/24/2023,26,8,0.228571429,0.277938664,0.2674,analyst_upgrade,General,NEUTRAL,Apple Stock: Headed to $240?
+11/25/2023,0,0,0,0,0,0,0,0,0
+11/26/2023,0,0,0,0,0,0,0,0,0
+11/27/2023,29,2,0.14894958,0.278869927,0.2647,general,General,NEUTRAL,13 Cheap Value Stocks To Buy According To Warren Buffett
+11/28/2023,25,6,0.16,0.277202249,0.2673,supply_chain,General,LOW,Apple’s Risk From Huawei’s Phones Looks ‘Overstated’
+11/29/2023,30,5,0.148755411,0.293620199,0.2688,general,General,NEUTRAL,The 7 Biggest Dividend Stocks in Warren Buffett’s Portfolio
+11/30/2023,13,8,0.20281618,0.277202249,0.2694,product_launch,iPhone,HIGH,12 Best Seasonal Stocks To Buy Now
+12/1/2023,22,0,0.25,0.282026112,0.2668,general,General,LOW,"
+Brett Schafer  |  Dec 1, 2023
+"
+12/2/2023,0,0,0,0,0,0,0,0,0
+12/3/2023,0,0,0,0,0,0,0,0,0
+12/4/2023,21,8,0.083333333,0.260615855,0.2688,analyst_upgrade,General,HIGH,Tech’s Set for a 2024 Bull Run. Apple and 7 Other Stocks Are This Analyst’s Top Picks.
+12/5/2023,24,8,0.16875,0.28657186,0.2703,general,General,LOW,Could TSMC Stock Help You Retire a Millionaire?
+12/6/2023,41,3,0.198051948,0.292860806,0.2722,general,General,HIGH,"Apple stock feeling the holiday cheer, surpassing $3T mark"
+12/7/2023,35,8,0.140937756,0.279001445,0.2698,general,General,HIGH,The 3 Best Nasdaq Stocks to Buy in December
+12/8/2023,38,0,0.166666667,0.2957955,0.2733,general,General,LOW,"
+Justin Pope  |  Dec 8, 2023
+"
+12/9/2023,0,0,0,0,0,0,0,0,0
+12/10/2023,0,0,0,0,0,0,0,0,0
+12/11/2023,0,0,0,0,0,0,0,0,0
+12/12/2023,0,0,0,0,0,0,0,0,0
+12/13/2023,0,0,0,0,0,0,0,0,0
+12/14/2023,0,0,0,0,0,0,0,0,0
+12/15/2023,0,0,0,0,0,0,0,0,0
+12/16/2023,0,0,0,0,0,0,0,0,0
+12/17/2023,0,0,0,0,0,0,0,0,0
+12/18/2023,0,0,0,0,0,0,0,0,0
+12/19/2023,0,0,0,0,0,0,0,0,0
+12/20/2023,0,0,0,0,0,0,0,0,0
+12/21/2023,0,0,0,0,0,0,0,0,0
+12/22/2023,0,0,0,0,0,0,0,0,0
+12/23/2023,0,0,0,0,0,0,0,0,0
+12/24/2023,0,0,0,0,0,0,0,0,0
+12/25/2023,0,0,0,0,0,0,0,0,0
+12/26/2023,0,0,0,0,0,0,0,0,0
+12/27/2023,0,0,0,0,0,0,0,0,0
+12/28/2023,0,0,0,0,0,0,0,0,0
+12/29/2023,0,0,0,0,0,0,0,0,0
+12/30/2023,0,0,0,0,0,0,0,0,0
+12/31/2023,0,0,0,0,0,0,0,0,0
+1/1/2024,0,0,0,0,0,0,0,0,0
+1/2/2024,0,0,0,0,0,0,0,0,0
+1/3/2024,0,0,0,0,0,0,0,0,0
+1/4/2024,0,0,0,0,0,0,0,0,0
+1/5/2024,0,0,0,0,0,0,0,0,0
+1/6/2024,0,0,0,0,0,0,0,0,0
+1/7/2024,0,0,0,0,0,0,0,0,0
+1/8/2024,10,8,0.12736014,0.262705922,0.2817,product_launch,Vision_Pro,NEUTRAL,"Apple Vision Pro headset: Launch date, pricing unveiled"
+1/9/2024,16,3,0.122270322,0.266491532,0.2959,legal,General,HIGH,Apple Veteran Saori Casey Leaving to Become Sonos Finance Chief
+1/10/2024,27,6,0.149475524,0.27654165,0.2853,product_launch,App_Store,NEUTRAL,Your Path to Wealth: 3 Stocks Predicted to Double Your Investment by 2025
+1/11/2024,29,6,0.15575487,0.271907717,0.2799,general,General,NEUTRAL,MLS and Apple announce all-access docuseries chronicling 2024 season
+1/12/2024,30,5,0.170538721,0.26117444,0.2964,legal,General,LOW,Al Gore and Ex-Boeing CFO Are Leaving Apple's Board: Here's Who Are Left
+1/13/2024,0,0,0,0,0,0,0,0,0
+1/14/2024,0,0,0,0,0,0,0,0,0
+1/15/2024,0,0,0,0,0,0,0,0,0
+1/16/2024,46,8,-0.009090909,0.26151368,0.2987,legal,General,LOW,Apple plans to remove sensor from some watch models depending on how a court rules in patent dispute
+1/17/2024,47,8,0.121527778,0.279489368,0.3035,legal,Vision_Pro,HIGH,Court bars US Apple Watch imports during appeal over ban
+1/18/2024,44,8,0.114285714,0.281957835,0.3047,legal,General,HIGH,Masimo (MASI) Gains on Favorable Ruling in Apple Watch Dispute
+1/19/2024,28,6,0,0.270775139,0.2901,analyst_upgrade,General,HIGH,"Apple Stock Now Faces Lower Bar, Says Analyst. What It Needs to Deliver."
+1/20/2024,0,0,0,0,0,0,0,0,0
+1/21/2024,0,0,0,0,0,0,0,0,0
+1/22/2024,21,8,0.022916667,0.261185497,0.302,legal,General,HIGH,A British inventor chasing Apple for $18 billion over alleged iTunes theft says the case has left him in a ‘deep depression’
+1/23/2024,18,8,-0.014285714,0.26117444,0.3026,legal,App_Store,NEUTRAL,Apple bids to throw out $1 bln UK lawsuit over app store fees
+1/24/2024,20,8,0.121965812,0.26943925,0.2907,supply_chain,General,NEUTRAL,Apple’s EV could be facing yet another delay—and it could end up coming to market at the worst possible time
+1/25/2024,39,8,0.214556277,0.261738122,0.2914,analyst_upgrade,General,LOW,Wall Street Whispers: 3 Stocks With Recent Analyst Upgrades
+1/26/2024,32,8,0.153914141,0.261376202,0.2911,product_launch,General,NEUTRAL,Intuitive Surgical (ISRG) Seeks FDA Nod for Next-Gen da Vinci 5
+1/27/2024,0,0,0,0,0,0,0,0,0
+1/28/2024,0,0,0,0,0,0,0,0,0
+1/29/2024,0,0,0,0,0,0,0,0,0
+1/30/2024,0,0,0,0,0,0,0,0,0
+1/31/2024,0,0,0,0,0,0,0,0,0
+2/1/2024,0,0,0,0,0,0,0,0,0
+2/2/2024,0,0,0,0,0,0,0,0,0
+2/3/2024,0,0,0,0,0,0,0,0,0
+2/4/2024,0,0,0,0,0,0,0,0,0
+2/5/2024,0,0,0,0,0,0,0,0,0
+2/6/2024,0,0,0,0,0,0,0,0,0
+2/7/2024,0,0,0,0,0,0,0,0,0
+2/8/2024,0,0,0,0,0,0,0,0,0
+2/9/2024,0,0,0,0,0,0,0,0,0
+2/10/2024,0,0,0,0,0,0,0,0,0
+2/11/2024,0,0,0,0,0,0,0,0,0
+2/12/2024,0,0,0,0,0,0,0,0,0
+2/13/2024,0,0,0,0,0,0,0,0,0
+2/14/2024,0,0,0,0,0,0,0,0,0
+2/15/2024,0,0,0,0,0,0,0,0,0
+2/16/2024,0,0,0,0,0,0,0,0,0
+2/17/2024,0,0,0,0,0,0,0,0,0
+2/18/2024,0,0,0,0,0,0,0,0,0
+2/19/2024,0,0,0,0,0,0,0,0,0
+2/20/2024,19,8,0.062431582,0.262140274,0.3101,regulatory,General,NEUTRAL,German offices suffer biggest slump in value across eurozone
+2/21/2024,29,6,0.170454545,0.262140274,0.3107,regulatory,General,HIGH,"Apple Fights for the App Store, Google Opens Up Its AI Models, and Other Tech News Today"
+2/22/2024,15,8,0.053333333,0.262140274,0.3113,regulatory,App_Store,LOW,Apple hits out at Spotify over ongoing EU competition complaint
+2/23/2024,12,6,0.078692386,0.262140274,0.3106,product_launch,General,LOW,Xiaomi unveils photography-focused 14 Ultra smartphone as it aims to take on Apple and Huawei in high-end segment
+2/24/2024,0,0,0,0,0,0,0,0,0
+2/25/2024,0,0,0,0,0,0,0,0,0
+2/26/2024,25,8,0.131997913,0.262140274,0.3129,product_launch,Vision_Pro,HIGH,Major League Soccer: Apple deal 'set the bar at a different level'
+2/27/2024,21,6,0.205,0.262496352,0.3144,regulatory,General,LOW,"Apple met with DOJ officials to avoid antitrust lawsuit, Bloomberg reports"
+2/28/2024,24,6.5,0.075362319,0.262140274,0.3453,ceo_statement,General,NEUTRAL,"UPDATE 2-Apple to disclose AI plans later this year, CEO Tim Cook says"
+2/29/2024,18,8,0.158143939,0.262140274,0.346,ceo_statement,General,LOW,Jim Cramer’s 10 New Stock Picks for March 2024
+3/1/2024,19,8,0.101681652,0.26705882,0.3173,regulatory,App_Store,LOW,"Apple's App Store changes fall short of EU's DMA rules, say Spotify, industry groups"
+3/2/2024,0,0,0,0,0,0,0,0,0
+3/3/2024,0,0,0,0,0,0,0,0,0
+3/4/2024,27,8,0.073484848,0.267826468,0.3193,regulatory,General,LOW,Apple hit with over 1.8 bln euro EU antitrust fine in Spotify case
+3/5/2024,28,8,0.039903846,0.267826468,0.3199,regulatory,General,LOW,"UPDATE 4-US court sides with Apple, Tesla, other tech companies over child labor in Africa"
+3/6/2024,15,8,0.113957672,0.262140274,0.3191,regulatory,General,NEUTRAL,SEC adopts landmark climate rule — here's what that means for public companies
+3/7/2024,19,8,0.089669421,0.261832148,0.3196,regulatory,App_Store,HIGH,"‘A serious violation’: Why Apple just killed off Epic’s EU app store, and why the Fortnite maker will probably prevail"
+3/8/2024,17,8,0.119721408,0.264877975,0.321,regulatory,General,HIGH,EU's Digital Markets Act hands boost to Big Tech's smaller rivals
+3/9/2024,0,0,0,0,0,0,0,0,0
+3/10/2024,0,0,0,0,0,0,0,0,0
+3/11/2024,18,6,0.25,0.262140274,0.3221,regulatory,General,NEUTRAL,Meta Platforms Stock Slips After Trump Calls It ‘Enemy of the People'
+3/12/2024,13,8,0.127966667,0.262140274,0.3227,regulatory,App_Store,LOW,Apple retreats in fight to defend App Store in Europe
+3/13/2024,12,6,-0.005538006,0.262140274,0.3233,regulatory,General,HIGH,It’s not all doom and gloom for Apple in 2024
+3/14/2024,20,6,0.045290404,0.262140274,0.3232,product_launch,General,NEUTRAL,Apple Buys Canadian AI Startup as It Races to Add Features
+3/15/2024,17,8,-0.021969697,0.261229634,0.3243,regulatory,General,HIGH,Norfolk County Council secures settlement as Apple agrees £384m lawsuit payment
+3/16/2024,0,0,0,0,0,0,0,0,0
+3/17/2024,0,0,0,0,0,0,0,0,0
+3/18/2024,18,8,0,0.261885315,0.3264,regulatory,General,HIGH,A Google Deal With Apple on AI Software Could Pose Antitrust Challenges
+3/19/2024,18,6,-0.016233766,0.262140274,0.3264,regulatory,General,HIGH,"Nvidia Has Global Dominance in Its Sights, Why It’s the New Apple. And 5 Other Things to Know Before Markets Open."
+3/20/2024,16,6,-0.029229798,0.262140274,0.3587,ceo_statement,General,LOW,Apple CEO Arrives in China Touting Its Role as iPhone Base
+3/21/2024,21,6,0.057928666,0.259414017,0.3229,product_launch,General,HIGH,UPDATE 2-Apple's Cook opens new store in Shanghai to large crowds as China sales fall
+3/22/2024,33,6,0.150589226,0.262835801,0.3278,supply_chain,Vision_Pro,LOW,"Apple Scraps Plan to Design Display for Watch In-House, Cuts Jobs"
+3/23/2024,0,0,0,0,0,0,0,0,0
+3/24/2024,0,0,0,0,0,0,0,0,0
+3/25/2024,24,6,0.137428977,0.261737168,0.3254,product_launch,iPhone,LOW,"Trending tickers: Bitcoin, Baidu, Direct Line and Kingfisher"
+3/26/2024,19,7,0.024382716,0.26410675,0.3332,earnings_miss,General,HIGH,Apple (AAPL) Registers a Bigger Fall Than the Market: Important Facts to Note
+3/27/2024,14,2,0.021969697,0.282758296,0.3271,general,General,LOW,"Apple announces Worldwide Developers Conference dates, in-person event"
+3/28/2024,24,8,0.15762987,0.28063345,0.3328,product_launch,General,LOW,"Apple's new iPad Pro likely to launch in May, ramps up overseas production, Bloomberg News reports"
+3/29/2024,0,0,0,0,0,0,0,0,0
+3/30/2024,0,0,0,0,0,0,0,0,0
+3/31/2024,0,0,0,0,0,0,0,0,0
+4/1/2024,12,8,0.036396011,0.2847794,0.3308,general,General,LOW,1 Magnificent S&amp;P Dividend Stock Down 12% to Buy and Hold Forever
+4/2/2024,11,6,-0.060057471,0.261254787,0.3369,earnings_miss,General,NEUTRAL,Apple Investors Seek Signs Worst Is Over After Quarterly Slump
+4/3/2024,14,8.9,0.137465565,0.276719332,0.3374,earnings_beat,General,NEUTRAL,"The good, bad, and ugly of Big Tech's first quarter"
+4/4/2024,6,8,0.024346728,0.260094613,0.3353,supply_chain,General,NEUTRAL,"Apple Cut at Least 600 Workers When Car, Screen Projects Stopped"
+4/5/2024,18,8,0.03323356,0.278185576,0.3428,earnings_miss,iPhone,LOW,Hon Hai Sales Fall Short of Estimates After iPhone Slump
+4/6/2024,0,0,0,0,0,0,0,0,0
+4/7/2024,0,0,0,0,0,0,0,0,0
+4/8/2024,13,8,0.020454545,0.26303634,0.338,supply_chain,iPhone,HIGH,"Exclusive - Pegatron in talks with Tata to sell its only India iPhone plant, sources say"
+4/9/2024,7,6,0.232756992,0.281304926,0.3406,product_launch,Vision_Pro,LOW,Apple is aiming the Vision Pro at enterprises
+4/10/2024,14,8,0.134090909,0.26303634,0.3393,supply_chain,iPhone,HIGH,Apple now makes 1 in 7 iPhones in India: Bloomberg News
+4/11/2024,16,8,0.021893939,0.26303634,0.337,product_launch,Mac,HIGH,Apple Plans to Overhaul Entire Mac Line With AI-Focused M4 Chips
+4/12/2024,12,8,0.2,0.262835801,0.3376,product_launch,Mac,LOW,Apple Stock Rises On AI Mac News. Shares Look To Retake Key Level.
+4/13/2024,0,0,0,0,0,0,0,0,0
+4/14/2024,0,0,0,0,0,0,0,0,0
+4/15/2024,21,8,0.1875,0.278185576,0.3473,supply_chain,iPhone,LOW,Apple iPhone Shipments Drop 10% in Market Share Battle With Chinese Rivals
+4/16/2024,14,6,0.046338384,0.263250977,0.3466,earnings_miss,General,LOW,Apple (AAPL) Stock Sinks As Market Gains: Here's Why
+4/17/2024,20,6,0,0.263298243,0.3439,supply_chain,General,LOW,Apple Weighs Manufacturing in Indonesia Amid Diversification Drive
+4/18/2024,25,8,0.111507937,0.262489885,0.347,earnings_miss,iPhone,LOW,Worried About Apple Stock Now That the Company's Lost the Smartphone Lead? Read This Before Making Any Big Moves
+4/19/2024,29,6,0.023484848,0.262835801,0.345,supply_chain,General,HIGH,Apple could be trying to ‘hedge its supply chain bets’ away from China with CEO Tim Cook’s whirlwind Southeast Asia tour
+4/20/2024,0,0,0,0,0,0,0,0,0
+4/21/2024,0,0,0,0,0,0,0,0,0
+4/22/2024,28,8,0.161295609,0.278185576,0.3502,earnings_beat,General,HIGH,"Analysts are Wrong, JD.com Is a Hidden Gem: Inside the Chinese Titan’s Explosive Growth and Dirt-Cheap Valuation"
+4/23/2024,21,6,0.172222222,0.266804188,0.3522,earnings_miss,General,HIGH,"Top Midday Stories: Shares of GE, Novartis, Danaher and Philip Morris Up Post-Earnings; Pepsi Stock Down Post-Earnings; Apple iPhone China Sales Drop 19%; Trump Poised for Windfall From Media Company Stock"
+4/24/2024,3,4,0.142857143,0.263683468,0.3392,general,iPhone,HIGH,"
+John Ballard  |  Apr 24, 2024
+"
+4/25/2024,0,0,0,0,0,0,0,0,0
+4/26/2024,0,0,0,0,0,0,0,0,0
+4/27/2024,0,0,0,0,0,0,0,0,0
+4/28/2024,0,0,0,0,0,0,0,0,0
+4/29/2024,0,0,0,0,0,0,0,0,0
+4/30/2024,0,0,0,0,0,0,0,0,0
+5/1/2024,0,0,0,0,0,0,0,0,0
+5/2/2024,0,0,0,0,0,0,0,0,0
+5/3/2024,0,0,0,0,0,0,0,0,0
+5/4/2024,0,0,0,0,0,0,0,0,0
+5/5/2024,0,0,0,0,0,0,0,0,0
+5/6/2024,0,0,0,0,0,0,0,0,0
+5/7/2024,0,0,0,0,0,0,0,0,0
+5/8/2024,0,0,0,0,0,0,0,0,0
+5/9/2024,0,0,0,0,0,0,0,0,0
+5/10/2024,0,0,0,0,0,0,0,0,0
+5/11/2024,0,0,0,0,0,0,0,0,0
+5/12/2024,0,0,0,0,0,0,0,0,0
+5/13/2024,0,0,0,0,0,0,0,0,0
+5/14/2024,0,0,0,0,0,0,0,0,0
+5/15/2024,0,0,0,0,0,0,0,0,0
+5/16/2024,0,0,0,0,0,0,0,0,0
+5/17/2024,0,0,0,0,0,0,0,0,0
+5/18/2024,0,0,0,0,0,0,0,0,0
+5/19/2024,0,0,0,0,0,0,0,0,0
+5/20/2024,0,0,0,0,0,0,0,0,0
+5/21/2024,11,8.5,0.251857377,0.260941654,0.3865,product_launch,General,LOW,Microsoft (MSFT) Debuts Copilot+ PCs With AI-Focused Features
+5/22/2024,12,6,0.235982983,0.261977583,0.3875,product_launch,Mac,LOW,AI is making Microsoft vs. Apple interesting again
+5/23/2024,21,6,0.209268466,0.262101024,0.3883,product_launch,General,HIGH,Amazon readies Alexa for its second act—but it has an uphill battle
+5/24/2024,15,0,0.120833333,0.263102621,0.3886,product_launch,General,NEUTRAL,Nvidia: This is how stock splits are performing 12 months after announcement
+5/25/2024,0,0,0,0,0,0,0,0,0
+5/26/2024,0,0,0,0,0,0,0,0,0
+5/27/2024,0,0,0,0,0,0,0,0,0
+5/28/2024,20,2,0.111789819,0.272758096,0.373,general,General,NEUTRAL,The Most Densely Populated Country in the World in 2024
+5/29/2024,20,8,0.201156656,0.26346764,0.3932,product_launch,General,HIGH,Apple Signals That It’s Working on TV+ App for Android Phones
+5/30/2024,21,8.5,0.134844877,0.28285715,0.4,product_launch,General,HIGH,Apple Plans AI-Based Siri Overhaul to Control Individual App Functions
+5/31/2024,14,0,0,0.28285715,0.3781,general,General,HIGH,"
+Sean Williams  |  May 31, 2024
+"
+6/1/2024,0,0,0,0,0,0,0,0,0
+6/2/2024,0,0,0,0,0,0,0,0,0
+6/3/2024,9,2,0.093813131,0.274609476,0.3785,general,General,NEUTRAL,Foldable phones are increasingly popular—and Samsung’s share of the market is dropping
+6/4/2024,13,8,0.040668591,0.275265008,0.4014,product_launch,General,HIGH,WWDC a ‘pivotal moment’ for Apple with AI plans in focus- Wedbush
+6/5/2024,18,4,0.075008455,0.28285715,0.4046,product_launch,iPhone,LOW,Why Apple’s generative AI push won’t launch an iPhone supercycle in 2024
+6/6/2024,25,8.5,0.185251377,0.28656128,0.4065,product_launch,Vision_Pro,HIGH,"Zacks Investment Ideas feature highlights: Apple, Microsoft and Amazon"
+6/7/2024,22,8,0.16617289,0.263236165,0.3999,product_launch,General,LOW,Apple WWDC 2024: What to expect from Apple’s AI unveiling
+6/8/2024,0,0,0,0,0,0,0,0,0
+6/9/2024,0,0,0,0,0,0,0,0,0
+6/10/2024,24,8,-0.022956607,0.311051875,0.4166,product_launch,General,HIGH,Apple WWDC Event Will Show Whether It Can Be a Force in AI Industry
+6/11/2024,35,6,0.206577135,0.28656128,0.4104,product_launch,General,HIGH,"Midday movers: Coinbase, Yext fall; Apple, GM rise"
+6/12/2024,39,9,0.130510662,0.264072448,0.404,product_launch,General,HIGH,Apple Jumps on the AI Bandwagon: ETFs to Buy
+6/13/2024,38,8,0.120075758,0.288991034,0.4127,product_launch,iPhone,LOW,Apple will let you send text messages via satellites in space later this year
+6/14/2024,17,8,0.130915978,0.25979203,0.4041,product_launch,iPhone,HIGH,Apple Eyes Best Week Since 2021 on Bet AI iPhones Are Must-Haves
+6/15/2024,0,0,0,0,0,0,0,0,0
+6/16/2024,0,0,0,0,0,0,0,0,0
+6/17/2024,24,5,0.118925365,0.263236165,0.4076,product_launch,General,LOW,"Apple Shutting Down Pay Later, Its Affirm Rival, After One Year"
+6/18/2024,37,3,0.080540016,0.264976561,0.4089,product_launch,General,LOW,"Apple kills off its buy now, pay later service barely a year after launch"
+6/19/2024,0,0,0,0,0,0,0,0,0
+6/20/2024,24,8,-0.084876543,0.262885034,0.3929,product_launch,Vision_Pro,LOW,"My Apple Vision Pro turned me into a bona fide Glasshole, again"
+6/21/2024,29,8,0.251244589,0.289310783,0.3967,general,General,NEUTRAL,Is Insider Monkey the Best Website to Research Stocks?
+6/22/2024,0,0,0,0,0,0,0,0,0
+6/23/2024,0,0,0,0,0,0,0,0,0
+6/24/2024,28,6,0.052207792,0.281204551,0.3972,general,General,NEUTRAL,Apple Spurned Idea of iPhone AI Partnership With Meta Months Ago
+6/25/2024,19,8,0.10018315,0.28643015,0.3996,general,General,HIGH,You’ve Been Warned! 3 Nanotech Stocks to Buy Now or Regret Forever.
+6/26/2024,17,2,0.032121212,0.271322548,0.3957,general,General,NEUTRAL,Big Tech Stocks Are Picking Up Nvidia’s Slack. That’s a Positive for the Market Rally.
+6/27/2024,25,6,0.166247294,0.274996638,0.4062,earnings_miss,General,LOW,Billionaires Are Selling Meta and Buying This Stock Instead
+6/28/2024,19,2,0,0.28643015,0.4011,general,General,HIGH,AAPL Stock Outlook: Can the Apple $230 Stock Price Target Become Reality?
+6/29/2024,0,0,0,0,0,0,0,0,0
+6/30/2024,0,0,0,0,0,0,0,0,0
+7/1/2024,13,2,0.083201754,0.288292259,0.4048,general,General,HIGH,Why the Trump-Biden debate debacle isn’t shaking the confidence of excited tech investors
+7/2/2024,18,6,0.308695652,0.279279888,0.4027,general,General,HIGH,Is Apple Inc (NASDAQ:AAPL) the Best AI Momentum Stock to Benefit from Volatility Ahead?
+7/3/2024,24,8,0.132391304,0.285360545,0.4099,product_launch,General,HIGH,Apple Hits 52-Week High: Can AI Focus Drive AAPL Stock Higher?
+7/4/2024,0,0,0,0,0,0,0,0,0
+7/5/2024,20,10,0.013835264,0.261644661,0.4105,analyst_downgrade,General,HIGH,3 Stocks Wall Street Just Soured On (You Should Too)
+7/6/2024,0,0,0,0,0,0,0,0,0
+7/7/2024,0,0,0,0,0,0,0,0,0
+7/8/2024,15,5,0.25,0.288292259,0.4094,general,General,NEUTRAL,Take Profits in Apple Stock Before AI Hype Runs Its Course
+7/9/2024,28,2,0,0.277013093,0.4074,general,General,HIGH,Update: Market Chatter: Microsoft Asks Staff in China to Use Only iPhones for Work
+7/10/2024,25,4,0.318181818,0.291841298,0.4129,general,iPhone,LOW,Update: Market Chatter: Apple Looking to Ship 10% More New iPhones in 2024
+7/11/2024,25,6,0.16655303,0.28643015,0.4165,product_launch,General,HIGH,"Samsung goes at Apple with Galaxy Watch Ultra, Galaxy Ring"
+7/12/2024,19,1,0,0.28643015,0.4119,general,General,HIGH,"
+Catherine Brock  |  Jul 12, 2024
+"
+7/13/2024,0,0,0,0,0,0,0,0,0
+7/14/2024,0,0,0,0,0,0,0,0,0
+7/15/2024,20,2,0.03604347,0.286367595,0.4143,general,iPhone,NEUTRAL,Smartphone Market Grows 6% as AI and Discounts Help Demand
+7/16/2024,12,8,0.063854875,0.261990279,0.4185,analyst_downgrade,General,LOW,Stay Far Away From Qualcomm Stock… Until It Hits $150
+7/17/2024,22,8,0.090277778,0.262897879,0.4203,analyst_downgrade,General,LOW,UBS casts doubt on Apple's FY25 iPhone 'super-cycle'
+7/18/2024,24,6,0.064542484,0.263715088,0.4169,earnings_miss,Services,NEUTRAL,US stock futures rise as tech rout pauses; major earnings awaited
+7/19/2024,16,8,0.207017544,0.263712525,0.4167,earnings_beat,General,NEUTRAL,3 Tech Stocks to Buy Now: Q3 Edition
+7/20/2024,0,0,0,0,0,0,0,0,0
+7/21/2024,0,0,0,0,0,0,0,0,0
+7/22/2024,9,7.77,0.082777778,0.292666674,0.4105,analyst_upgrade,General,NEUTRAL,Apple (AAPL) Re-Emerged as a Top Performer in Q2
+7/23/2024,22,8,0.185597403,0.264044642,0.42,earnings_beat,General,LOW,TSMC's Latest Results Show It Is More Than A Beneficiary Of The AI Hype As It Is One Of One Its Creators
+7/24/2024,32,8,0.114987096,0.260700017,0.4207,earnings_miss,General,NEUTRAL,US stock futures limp higher after tech rout batters Wall Street
+7/25/2024,19,6,0.056534091,0.272804528,0.4255,earnings_miss,General,NEUTRAL,Apple's Taiwanese Chip Supplier ASE Tech Clocks Modest Q2 Growth In Revenues
+7/26/2024,19,7,0.039588745,0.290428042,0.4312,earnings_beat,General,NEUTRAL,Mag 7 Earnings Loom: A Closer Look
+7/27/2024,0,0,0,0,0,0,0,0,0
+7/28/2024,0,0,0,0,0,0,0,0,0
+7/29/2024,27,7,0.114935065,0.277844101,0.4294,earnings_beat,General,NEUTRAL,Perion Network (PERI) to Report Q2 Earnings: What to Expect
+7/30/2024,18,8,0.128229665,0.299732655,0.4376,earnings_beat,Services,HIGH,Will Solid Mac Sales &amp; Services Aid Apple's (AAPL) Q3 Earnings?
+7/31/2024,15,4,0.263095238,0.273868561,0.4297,earnings_beat,General,LOW,AAPL or AMZN: Which Mag 7 Stock Should You Buy Before Earnings?
+8/1/2024,19,8,0.211111111,0.304042459,0.4407,earnings_beat,Services,HIGH,"Apple Beats June-Quarter Targets On Services, iPad Sales Strength"
+8/2/2024,27,8,0.031979276,0.263953149,0.4412,ceo_statement,iPhone,LOW,Apple Sees Boost From AI Features After Uneven Third Quarter
+8/3/2024,0,0,0,0,0,0,0,0,0
+8/4/2024,0,0,0,0,0,0,0,0,0
+8/5/2024,33,3,-0.01557971,0.260271698,0.4432,ceo_statement,General,LOW,ETFs in Focus as Buffett Cuts Apple Stake by Nearly 50%
+8/6/2024,32,8,0.301973684,0.263898969,0.4445,ceo_statement,General,HIGH,Warren Buffett's Unprecedented $132 Billion Warning to Wall Street Can't Be Ignored Any Longer
+8/7/2024,15,3,0.297619048,0.263953149,0.4454,ceo_statement,General,HIGH,Warren Buffett Just Sold $90 Billion of Apple Stock. Could This Be the Biggest Investing Mistake He's Ever Made?
+8/8/2024,22,8,-0.045454545,0.292934835,0.4428,earnings_beat,Services,HIGH,"Apple's Satellite Connectivity Provider Globalstar's Q2 Revenue Grows 10% On Wholesale Capacity Surge, Hikes FY24 Outlook"
+8/9/2024,17,8,0.273721913,0.284091771,0.4406,earnings_beat,Services,HIGH,Strategist: Why Meta looks like the 'Magnificent 7' standout right now
+8/10/2024,0,0,0,0,0,0,0,0,0
+8/11/2024,0,0,0,0,0,0,0,0,0
+8/12/2024,11,8,0.112072511,0.260071069,0.4491,ceo_statement,General,HIGH,3 More Stocks Warren Buffett Might Sell to Prep for a Market Crash
+8/13/2024,23,8,0.144337859,0.264400363,0.4372,earnings_beat,General,NEUTRAL,Apple Stock (NASDAQ:AAPL): 5 Bullish Signs and 1 Red Flag
+8/14/2024,30,6,0.08109319,0.264320195,0.4523,ceo_statement,General,HIGH,Prediction: Buffett's Decision to Offload Apple and Bank of America Stock Could Pay Off In Spades. Here's Why.
+8/15/2024,14,6,0.210625,0.264632761,0.4225,regulatory,General,HIGH,"Soros, Druckenmiller Pared Megacap Holdings Ahead of Rout"
+8/16/2024,7,7,0.05492785,0.263856918,0.4344,legal,General,NEUTRAL,"Fortnite returns on iPhones in EU, globally on Android"
+8/17/2024,0,0,0,0,0,0,0,0,0
+8/18/2024,0,0,0,0,0,0,0,0,0
+8/19/2024,17,8,0.125131752,0.262410074,0.4311,earnings_beat,Services,NEUTRAL,Bull of the Day: Spotify Technology S.A. (SPOT)
+8/20/2024,8,6,-0.061888889,0.263856918,0.4263,regulatory,General,NEUTRAL,It Isn't Just Apple: Warren Buffett Could Be Souring on This Other Megacap Stock
+8/21/2024,18,6,0.085246914,0.264632761,0.4274,regulatory,General,LOW,Evidence of food price gouging is hard to find
+8/22/2024,6,6,0.152181152,0.264402181,0.4281,regulatory,General,HIGH,"Apple to update EU browser options, make more apps deletable"
+8/23/2024,14,3,0.085854545,0.285412759,0.4279,general,General,NEUTRAL,Big Tech dominance is forcing index superpowers to rethink rules
+8/24/2024,0,0,0,0,0,0,0,0,0
+8/25/2024,0,0,0,0,0,0,0,0,0
+8/26/2024,14,3,0,0.289264768,0.4317,general,General,NEUTRAL,Apple Names Kevan Parekh Its Next CFO
+8/27/2024,17,6,0.034440559,0.285412759,0.4312,general,General,LOW,IDC raises annual global smartphone shipments forecast on GenAI optimism
+8/28/2024,17,6,0.030259628,0.264254153,0.4437,legal,General,HIGH,Apple Cuts Jobs in Online Services Group as Priorities Shift
+8/29/2024,14,8,0.075666667,0.26372394,0.4454,supply_chain,iPhone,NEUTRAL,Huawei Revenue Jumps After Eating Apple’s Market Share in China
+8/30/2024,14,8,-0.005800189,0.260893673,0.4452,supply_chain,General,LOW,"Intel considers splitting off foundry business, scrapping factory plans- Bloomberg"
+8/31/2024,0,0,0,0,0,0,0,0,0
+9/1/2024,0,0,0,0,0,0,0,0,0
+9/2/2024,0,0,0,0,0,0,0,0,0
+9/3/2024,7,8,0.091205234,0.264197558,0.4388,earnings_miss,General,LOW,Jim Cramer on Apple Inc. (AAPL): ‘Creating A Whole New Level Of Stable Earnings’
+9/4/2024,9,0,0.5,0.28886053,0.4381,general,General,HIGH,"2 Stocks That Turned $1,000 into $1 Million (or More)"
+9/5/2024,15,8,0.117345938,0.264632761,0.4397,regulatory,General,LOW,Apple Inc. (AAPL): Trending AI Stock on Latest Analyst Ratings and News
+9/6/2024,18,8,-0.07962963,0.282158732,0.4539,earnings_beat,General,NEUTRAL,"Semiconductor ETFs Take A Beating, Dragged Lower By Nvidia, AMD, and Broadcom Stocks"
+9/7/2024,0,0,0,0,0,0,0,0,0
+9/8/2024,0,0,0,0,0,0,0,0,0
+9/9/2024,28,6,0.089772727,0.26622951,0.4557,supply_chain,General,NEUTRAL,"Apple Considers Expanding India Production Further, Engages With Major Industry Players: Report"
+9/10/2024,34,6,0.135062582,0.262413651,0.456,supply_chain,General,HIGH,Nvidia’s Blackwell chip delay is center stage amid stock slump
+9/11/2024,16,8,0.031642512,0.265233964,0.4468,earnings_miss,General,NEUTRAL,China Is Eating Apple's Lunch: Where Smartphone Maker Ranks Vs Asian Competitors
+9/12/2024,19,5,0,0.264197558,0.4565,legal,General,NEUTRAL,Warren Buffett Is Selling Apple Stock and Buying This Little-Known Stock Instead
+9/13/2024,8,6,-0.2,0.27531153,0.4622,legal,General,LOW,Apple Seeks Dismissal of Lawsuit Against Israeli Cyber Intelligence Firm NSO Group
+9/14/2024,0,0,0,0,0,0,0,0,0
+9/15/2024,0,0,0,0,0,0,0,0,0
+9/16/2024,20,6,0.6,0.289264768,0.4711,supply_chain,iPhone,NEUTRAL,Dow Jones Rises As Fed Meeting Looms; Apple Slides On Report Of iPhone 16 Demand
+9/17/2024,20,8,0.038774105,0.264675468,0.4619,legal,General,HIGH,Founder vs. activist: A dramatic two-year battle over health-tech firm Masimo comes to a head this week
+9/18/2024,19,8,0.040074212,0.262128115,0.4629,supply_chain,General,HIGH,"While Apple Abandoned Its Car Project After Pouring $1B Into It, Its Key Supplier Foxconn Is Now Collaborating With Sharp On An EV Prototype"
+9/19/2024,20,6,0.094900932,0.264102966,0.4625,legal,General,NEUTRAL,New iPhone 16 unveiled in Russia as retailers skirt Apple's export ban
+9/20/2024,21,8,0.166541973,0.263681412,0.4521,regulatory,General,LOW,"Fed Delivers Large Rate Cut In Bid To Sustain Labor Market; Stocks, Gold Set New Record Highs: This Week In The Markets"
+9/21/2024,0,0,0,0,0,0,0,0,0
+9/22/2024,0,0,0,0,0,0,0,0,0
+9/23/2024,13,8,0.253287879,0.262467861,0.4564,analyst_upgrade,General,NEUTRAL,Analyst on iPhone 16: I Do Not Think People Are ‘Running Out to Buy These Phones’
+9/24/2024,9,2,-0.22,0.265538186,0.4496,general,General,NEUTRAL,These 5 Artificial Intelligence (AI) Stocks Make Up 27.1% of the Entire S&P 500 Index
+9/25/2024,18,8,0.3104,0.26418674,0.4588,analyst_upgrade,General,HIGH,Analyst Says Initial Wait Times for Apple (AAPL) iPhone 16 are ‘Uninspiring’
+9/26/2024,12,8.5,0.092068966,0.263594419,0.4594,analyst_upgrade,iPhone,NEUTRAL,Apple can deliver upside to low iPhone 16 sales expectations: Evercore ISI
+9/27/2024,14,8,0.4875,0.263594419,0.4612,analyst_upgrade,General,HIGH,"Apple Has 'Very Significant' Monetization Opportunity From Deeper Siri App Integration, BofA Says"
+9/28/2024,0,0,0,0,0,0,0,0,0
+9/29/2024,0,0,0,0,0,0,0,0,0
+9/30/2024,13,2,0.152637987,0.26418674,0.4551,general,General,LOW,"Top Research Reports for Apple, Tesla &amp; T-Mobile US"
+10/1/2024,23,8,0.241,0.26418674,0.464,analyst_upgrade,General,NEUTRAL,"Pivotal starts Google, Meta stock coverage at Buy"
+10/2/2024,15,8,0.172515152,0.284700572,0.4671,regulatory,General,NEUTRAL,The top stock sectors to watch for the rest of 2024
+10/3/2024,12,5,0.134485294,0.262467861,0.4652,analyst_upgrade,General,HIGH,"Bank of America Maintains Buy Rating on Apple Inc. (AAPL) with $256 Price Target, Highlights Revenue Potential from AI Integration and Services Strategy"
+10/4/2024,9,8,0,0.269551247,0.4696,analyst_upgrade,App_Store,LOW,"Apple Fourth-Quarter App Store Revenue Poised for Double-Digit Growth, UBS Says"
+10/5/2024,0,0,0,0,0,0,0,0,0
+10/6/2024,0,0,0,0,0,0,0,0,0
+10/7/2024,16,8,0.136363636,0.290995747,0.4771,analyst_downgrade,iPhone,HIGH,Apple Stock Downgraded On Views iPhone 16 Sales Will Disappoint
+10/8/2024,11,7,0.129865424,0.26418674,0.4681,analyst_downgrade,iPhone,HIGH,"Nvidia, AMD Lead The Pack, Broadcom Stable, Intel Falters: Analyst's Latest Take"
+10/9/2024,15,7,0.110262726,0.287951589,0.48,analyst_upgrade,General,NEUTRAL,Affirm shares jump in pre-market after Morgan Stanley upgrade to 'equal-weight'
+10/10/2024,30,4,-0.075,0.273909688,0.4743,ceo_statement,General,LOW,Apple CEO Tim Cook Just Sold $50 Million of Stock. It’s Part of a Two-Year Plan.
+10/11/2024,13,6,0.116787879,0.262014419,0.4691,analyst_downgrade,General,HIGH,"Jefferies Downgrades Apple Inc. (AAPL) to Hold, Citing Need for Smartphone Hardware Overhaul Before AI Integration"
+10/12/2024,0,0,0,0,0,0,0,0,0
+10/13/2024,0,0,0,0,0,0,0,0,0
+10/14/2024,11,8,0.0625,0.273909688,0.4802,analyst_upgrade,General,HIGH,"Qualcomm Set For 50% Surge In Snapdragon 8 Gen 4 Shipments By Late 2024, Analyst Predicts"
+10/15/2024,15,6,0.14170556,0.263038278,0.4738,ceo_statement,General,LOW,'Soft landing' optimism spurs broad Wall Street rebound at big banks
+10/16/2024,29,2,0.115167984,0.273909688,0.4766,regulatory,General,NEUTRAL,State Street Corp's Strategic Reduction in M/I Homes Inc Holdings
+10/17/2024,31,2,0.322561983,0.263526887,0.4767,ceo_statement,General,HIGH,Donald Trump says Tim Cook is a better Apple CEO than Steve Jobs
+10/18/2024,26,8,0.144444444,0.263585985,0.48,analyst_upgrade,iPhone,HIGH,"Apple's iPhone 16 Sales in China Likely to Show 'Strong Rebound' Over Next Year, Wedbush Says"
+10/19/2024,0,0,0,0,0,0,0,0,0
+10/20/2024,0,0,0,0,0,0,0,0,0
+10/21/2024,14,8,0.026086957,0.261449128,0.4819,analyst_upgrade,General,NEUTRAL,"Dan Ives Acknowledges Nvidia, Microsoft As 'Core Drivers Of AI' But Sees Palantir, IBM, AMD And Apple Joining The Party As Well"
+10/22/2024,3,8,0.081767677,0.263954729,0.4828,analyst_upgrade,General,LOW,"Trending tickers: Nvidia, Apple, SAP, HSBC and Mulberry"
+10/23/2024,4,8,0,0.264506578,0.4818,analyst_downgrade,iPhone,NEUTRAL,Apple Stock Drops After Analyst Reports Cut In iPhone 16 Orders
+10/24/2024,4,8,0.0625,0.273206055,0.4882,analyst_upgrade,General,NEUTRAL,Is Apple Stock Going to $273? 1 Wall Street Analyst Thinks So.
+10/25/2024,3,8,0,0.262018651,0.4817,analyst_downgrade,General,HIGH,Apple Stock Downgraded To Sell Ahead Of Earnings. Here's Why.
+10/26/2024,0,0,0,0,0,0,0,0,0
+10/27/2024,0,0,0,0,0,0,0,0,0
+10/28/2024,2,1,0.55,0.262467861,0.4784,general,General,NEUTRAL,62% of Warren Buffett's $313 Billion Portfolio Is Invested in These 4 Magnificent Stocks
+10/29/2024,3,8,0.291666667,0.268530846,0.4887,ceo_statement,General,LOW,Warren Buffett Sold $80 Billion of Apple Stock. Here's Where He Invested Most of the Money.
+10/30/2024,2,0,0.1,0.264932334,0.4811,general,General,LOW,Common Stock vs. Preferred Stock: What Are the Differences?
+10/31/2024,5,8,0.216060606,0.26418674,0.4839,earnings_beat,Services,LOW,Peloton Soars To A New High Amid This Move To Get Fit
+11/1/2024,4,6,0.1875,0.26418674,0.4836,general,General,NEUTRAL,AI Spending Dominated Big Tech Earnings. Why These 2 Stocks Got a Pass From Investors.
+11/2/2024,0,0,0,0,0,0,0,0,0
+11/3/2024,0,0,0,0,0,0,0,0,0
+11/4/2024,3,6,-0.068287037,0.267777264,0.4917,regulatory,General,HIGH,Labor board accuses Apple of suppressing employee discussions
+11/5/2024,5,2,0.189158163,0.264932334,0.4876,general,General,NEUTRAL,Nvidia and Apple keep taking turns at the top of the world
+11/6/2024,5,2,0.283549784,0.26566264,0.4878,general,General,HIGH,Billionaire Steve Cohen Sold 67.5% of His Stake in This AI Stock-Split and Is Piling Into a Warren Buffett Favorite
+11/7/2024,2,0,0.2,0.267990857,0.4897,general,General,NEUTRAL,"If You'd Invested $1,000 in Apple Stock 20 Years Ago, Here's How Much You'd Have Today"
+11/8/2024,2,0,0,0.268530846,0.4908,general,General,LOW,JPMorgan Nasdaq Equity Premium Income ETF (JEPQ): How to Invest
+11/9/2024,0,0,0,0,0,0,0,0,0
+11/10/2024,0,0,0,0,0,0,0,0,0
+11/11/2024,3,0,0.346428571,0.264932334,0.4922,general,General,NEUTRAL,2 Cheap Tech Stocks to Buy Right Now
+11/12/2024,2,3,0,0.263952643,0.4928,general,General,NEUTRAL,Big News for Apple Stock Investors
+11/13/2024,2,6,0.142857143,0.264506578,0.4949,general,General,HIGH,"Smart Home Devices Could Boost Apple Stock, Analyst Says"
+11/14/2024,2,2,0.1,0.264932334,0.495,general,General,LOW,Billionaire Investor Warren Buffett Sold Apple Shares for a Fourth Straight Quarter. Should Investors Be Worried?
+11/15/2024,2,6,0,0.26418674,0.4966,general,General,HIGH,AST SpaceMobile Could Revolutionize Cellphone Satellite Service. But Can It Beat The Meme Stock Rap?
+11/16/2024,0,0,0,0,0,0,0,0,0
+11/17/2024,0,0,0,0,0,0,0,0,0
+11/18/2024,0,0,0,0,0,0,0,0,0
+11/19/2024,1,6,0.028787879,0.266000062,0.5011,general,General,NEUTRAL,Microsoft Ignite Shows AI Progress Has Slowed. The Focus Turns to Profits.
+11/20/2024,2,8,0,0.263952643,0.5013,general,General,NEUTRAL,Qualcomm Plans for Life After Apple. It’s Coming for Intel and AMD.
+11/21/2024,0,0,0,0,0,0,0,0,0
+11/22/2024,2,6,0.166666667,0.264932334,0.5026,general,General,HIGH,Huawei’s Chip Advances Threaten Apple in China
+11/23/2024,0,0,0,0,0,0,0,0,0
+11/24/2024,0,0,0,0,0,0,0,0,0
+11/25/2024,1,0,0.1,0.26418674,0.5052,general,General,HIGH,A Complete Guide to College Savings Accounts in 2024
+11/26/2024,4,0,0,0.267990857,0.5077,general,General,NEUTRAL,What Is a Stock Market Index?
+11/27/2024,1,6,0.025,0.263952643,0.508,general,General,HIGH,Berkshire Stock Hits Record Even as Company Refrains From Buybacks
+11/28/2024,0,0,0,0,0,0,0,0,0
+11/29/2024,0,0,0,0,0,0,0,0,0
+11/30/2024,0,0,0,0,0,0,0,0,0
+12/1/2024,0,0,0,0,0,0,0,0,0
+12/2/2024,0,0,0,0,0,0,0,0,0
+12/3/2024,0,0,0,0,0,0,0,0,0
+12/4/2024,0,0,0,0,0,0,0,0,0
+12/5/2024,0,0,0,0,0,0,0,0,0
+12/6/2024,0,0,0,0,0,0,0,0,0
+12/7/2024,0,0,0,0,0,0,0,0,0
+12/8/2024,0,0,0,0,0,0,0,0,0
+12/9/2024,0,0,0,0,0,0,0,0,0
+12/10/2024,0,0,0,0,0,0,0,0,0
+12/11/2024,0,0,0,0,0,0,0,0,0
+12/12/2024,0,0,0,0,0,0,0,0,0
+12/13/2024,0,0,0,0,0,0,0,0,0
+12/14/2024,0,0,0,0,0,0,0,0,0
+12/15/2024,0,0,0,0,0,0,0,0,0
+12/16/2024,0,0,0,0,0,0,0,0,0
+12/17/2024,0,0,0,0,0,0,0,0,0
+12/18/2024,0,0,0,0,0,0,0,0,0
+12/19/2024,0,0,0,0,0,0,0,0,0
+12/20/2024,0,0,0,0,0,0,0,0,0
+12/21/2024,0,0,0,0,0,0,0,0,0
+12/22/2024,0,0,0,0,0,0,0,0,0
+12/23/2024,0,0,0,0,0,0,0,0,0
+12/24/2024,0,0,0,0,0,0,0,0,0
+12/25/2024,0,0,0,0,0,0,0,0,0
+12/26/2024,0,0,0,0,0,0,0,0,0
+12/27/2024,0,0,0,0,0,0,0,0,0
+12/28/2024,0,0,0,0,0,0,0,0,0
+12/29/2024,0,0,0,0,0,0,0,0,0
+12/30/2024,0,0,0,0,0,0,0,0,0
+12/31/2024,0,0,0,0,0,0,0,0,0
