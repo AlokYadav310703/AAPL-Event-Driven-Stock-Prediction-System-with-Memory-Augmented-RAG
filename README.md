@@ -206,31 +206,3 @@ Denoising helped the CNN (13.1% RMSE reduction) but badly hurt the LSTM (negativ
 
 The residual correction stage improves **both** magnitude accuracy and directional accuracy simultaneously on a genuinely held-out 2025 window.
 
-### Standard Evaluation Metrics (ongoing monitoring)
-
-| Metric | Description |
-|---|---|
-| Directional Accuracy | % of days where predicted direction matches actual outcome |
-| F1 Score (macro) | Balanced across HIGH, LOW, NEUTRAL classes |
-| Precision / Recall | Reported separately for HIGH and LOW |
-| Retrieval Quality (MRR) | Mean Reciprocal Rank of retrieved events |
-| Impact Score Correlation | Pearson correlation between impact_score and prediction influence |
-| Rolling 30-day Accuracy | Primary indicator that online learning is working |
-
-All metrics are compared against three baselines: buy-and-hold, random direction classifier, and plain sentiment classifier. A system warning is triggered if rolling 30-day accuracy drops below 50%.
-
----
-
-## Constraints & Limitations
-
-- Scope is limited to a single asset (AAPL); not designed for multi-stock portfolios
-- Predictions are directional, with an adjusted price estimate — not guaranteed price targets
-- NewsAPI free tier allows ~100 requests/day with 1 month of historical archive access
-- LLM extraction is rate-limited (~28 requests/minute), creating a latency bottleneck at scale
-- All articles are assumed to be in English; non-English content is filtered at ingestion
-- System observes NYSE trading hours and the Federal Reserve bank holiday calendar
-- End-to-end evaluation currently covers a single contiguous 121-day window (Jan–Jun 2025); results may reflect that specific market regime and should be validated across more windows/volatility conditions
-- Current retraining is batch-incremental (full accumulated dataset), not true streaming/online learning
-- No transaction costs are modeled
-
----
